@@ -1,0 +1,37 @@
+<svg contentScriptType="text/ecmascript" zoomAndPan="magnify" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" version="1.1" width="1920" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" preserveAspectRatio="xMidYMid meet" xmlns:myscada="http://www.myscada.org" viewBox="0 0 1920 980" height="980" inkscape:voditka="{&quot;voditkoHorValues&quot;:[],&quot;voditkoVerValues&quot;:[]}" xmlns="http://www.w3.org/2000/svg">
+<style id="mySCADAFontCSSs" xml:space="preserve">
+@font-face{font-family:&apos;Ubuntu&apos;;src:url(&apos;Fonts/Ubuntu-R.ttf&apos;);}@font-face{font-family:&apos;Consolas&apos;;src:url(&apos;Fonts/consola.ttf&apos;);}@font-face{font-family:&apos;Consolas#B&apos;;src:url(&apos;Fonts/consolab.ttf&apos;);}@font-face{font-family:&apos;Roboto#B&apos;;src:url(&apos;Fonts/Roboto-Bold.ttf&apos;);}@font-face{font-family:&apos;Consolas#BI&apos;;src:url(&apos;Fonts/consolaz.ttf&apos;);}@font-face{font-family:&apos;Segoe UI#B&apos;;src:url(&apos;Fonts/segoeuib.ttf&apos;);}@font-face{font-family:&apos;Microsoft Sans Serif&apos;;src:url(&apos;Fonts/micross.ttf&apos;);}@font-face{font-family:&apos;Exo 2&apos;;src:url(&apos;Fonts/Exo2-Regular.ttf&apos;);}@font-face{font-family:&apos;Segoe UI#BI&apos;;src:url(&apos;Fonts/segoeuiz.ttf&apos;);}@font-face{font-family:&apos;Segoe UI&apos;;src:url(&apos;Fonts/segoeui.ttf&apos;);}@font-face{font-family:&apos;Segoe UI#I&apos;;src:url(&apos;Fonts/segoeuii.ttf&apos;);}@font-face{font-family:&apos;Ubuntu#BI&apos;;src:url(&apos;Fonts/Ubuntu-Bold.ttf&apos;);}@font-face{font-family:&apos;Roboto&apos;;src:url(&apos;Fonts/Roboto-Regular.ttf&apos;);}@font-face{font-family:&apos;Exo 2#B&apos;;src:url(&apos;Fonts/Exo2-Bold.ttf&apos;);}@font-face{font-family:&apos;Ubuntu#B&apos;;src:url(&apos;Fonts/Ubuntu-B.ttf&apos;);}@font-face{font-family:&apos;Consolas#I&apos;;src:url(&apos;Fonts/consolai.ttf&apos;);}@font-face{font-family:&apos;Ubuntu#I&apos;;src:url(&apos;Fonts/Ubuntu-RI.ttf&apos;);}</style>
+<defs/>
+<rect x="0" width="1920" y="0" height="980" id="pozadiNoSeL" style="stroke:#ECECEC;fill:#ECECEC;stoke:#ffffff;"/>
+<style type="text/css" xml:space="preserve">
+* {    -webkit-touch-callout: none;    -webkit-user-select: none; /* Disable selection/Copy of UIWebView */        -ms-user-select: none;    user-select: none;    -moz-user-select: none;}</style>
+<g inkscape:groupmode="layer" id="layer0" style="display:inline;" inkscape:layerlabel="Background">
+<g inkscape:label="{&quot;attr&quot;:&quot;open&quot;,&quot;command&quot;:&quot;&quot;,&quot;newWindow&quot;:&quot;&quot;,&quot;target&quot;:&quot;-1&quot;,&quot;lockEnable&quot;:&quot;No&quot;,&quot;openData&quot;:{&quot;type&quot;:&quot;closeDialog&quot;,&quot;target&quot;:-1,&quot;lockEnable&quot;:false,&quot;genericGraphParam&quot;:{&quot;type&quot;:&quot;bar&quot;,&quot;background&quot;:&quot;#FFFFFF&quot;,&quot;beginAtZero&quot;:true,&quot;pens&quot;:[],&quot;datas&quot;:[]},&quot;textScale&quot;:100,&quot;zoom&quot;:&quot;automatic&quot;},&quot;modal&quot;:false,&quot;topBar&quot;:false,&quot;closeButton&quot;:false,&quot;resize&quot;:false,&quot;titleColor&quot;:&quot;#1C648C&quot;,&quot;textColor&quot;:&quot;#FFFFFF&quot;,&quot;title&quot;:&quot;&quot;,&quot;titleTrans&quot;:{}},{&quot;attr&quot;:&quot;onTouch&quot;,&quot;list&quot;:[{&quot;id&quot;:&quot;rect0009&quot;,&quot;onTouchs&quot;:[{&quot;id&quot;:&quot;&quot;,&quot;typ&quot;:&quot;fill&quot;,&quot;value&quot;:&quot;#2D8DAB&quot;}]}]}" id="g0001">
+<rect x="1819.9902625574837" y="0.00003433227539131113" width="95" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:0.0;fill:#81BBCD;stroke:none;fill-opacity:1.0;stroke-linecap:butt;" rx="0" height="100" id="rect0001" ry="0"/>
+<g id="Comp06448968" style="opacity:0.9;" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;d1afc826b1&quot;,&quot;MasterID&quot;:&quot;869948720&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;color&quot;,&quot;name&quot;:&quot;Color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#ffffff&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}" inkscape:componentSize="689.93798828125;35.55476379394531;40.12396240234375;30.890480041503906">
+<g id="g0002">
+<path inkscape:vypln="color,100" id="path0001" d="M-277 300L-255 300L-255 302L-277 302L-277 300ZM-269.70001220703125 310.20001220703125L-278.8999938964844 301L-269.70001220703125 291.79998779296875L-268.29998779296875 293.20001220703125L-276.1000061035156 301L-268.29998779296875 308.79998779296875Z" style="fill:#ffffff;" transform="matrix(1.6788283586502075 0 0 1.6788283586502075 2315.6537590951257 -455.3272665787313)"/>
+</g>
+<g id="g0003" myscada:layerActiveArea="YES"/>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="06448968positionCheckElementNoSeL" style="display:none" transform="matrix(1.6788283586502075 0 0 1.6788283586502075 1847.428173157626 34.55478679651283)"/>
+</g>
+</g>
+</g>
+<g inkscape:groupmode="layer" myscada:layerActiveArea="YES" id="layer1" inkscape:layerlabel="ActiveArea">
+<g id="ActiveArea0001" myscada:ActiveAreaData="{&quot;attr&quot;:&quot;aa&quot;,&quot;id&quot;:1,&quot;type&quot;:0,&quot;value&quot;:&quot;&quot;,&quot;zindex&quot;:1,&quot;x&quot;:15.0,&quot;y&quot;:0.0,&quot;width&quot;:1805.0,&quot;height&quot;:971.0,&quot;parentid&quot;:&quot;&quot;,&quot;zoomable&quot;:false,&quot;openData&quot;:{&quot;type&quot;:&quot;html&quot;,&quot;screen&quot;:&quot;external&quot;,&quot;target&quot;:-1,&quot;lockEnable&quot;:false,&quot;htmlCode&quot;:&quot;http://10.10.13.50/&quot;,&quot;textScale&quot;:100,&quot;zoom&quot;:&quot;automatic&quot;},&quot;transparent&quot;:false,&quot;mapOverlay&quot;:false}" inkscape:componentData="{}" inkscape:componentSize="14.693565368652344;3.419345011934638E-5;1805.296630859375;983.775390625">
+<g>
+<rect x="14.693565489435851" y="0.00003419345090973807" width="1805.2966403681053" style="fill:#e6e6e6;stroke:#000000; stroke-width:1;stroke-dasharray:6,6;stroke-linecap:butt;stroke-linejoin:miter;" rx="0" height="971.36181790683" id="rect0012" ry="0"/>
+</g>
+<g inkscape:componentalign="tl">
+<text x="948.3333333333329" id="text0012" y="54.99999999999998" style="fill:#000000;stroke:none; font-family:&quot;Ubuntu&quot;; font-size:12pt; font-style:normal; font-weight:normal;" transform="matrix(0.9448820352554321 0 0 0.9448820352554321 -876.6452026367188 -37.79525375366211)">
+Active Area</text>
+<text x="948.3333333333329" id="text0001" y="74.99999999999997" style="fill:#000000;stroke:none; font-family:&quot;Ubuntu&quot;; font-size:11pt; font-style:normal; font-weight:normal;" transform="matrix(0.9448820352554321 0 0 0.9448820352554321 -876.6452026367188 -37.79525375366211)">
+HTML: external</text>
+</g>
+<g inkscape:componentalign="cc">
+<text x="1386.666666666666" y="586.9999999999998" style="fill:#000000;stroke:none; font-family:&quot;Ubuntu&quot;; font-size:24pt; font-style:normal; font-weight:normal;" transform="matrix(0.9448820352554321 0 0 0.9448820352554321 -399.8826599121094 -58.48744583129883)">
+1</text>
+</g>
+</g>
+</g>
+</svg>

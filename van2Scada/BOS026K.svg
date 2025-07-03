@@ -1,0 +1,771 @@
+<svg contentScriptType="text/ecmascript" zoomAndPan="magnify" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" version="1.1" width="2312" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" preserveAspectRatio="xMidYMid meet" xmlns:myscada="http://www.myscada.org" viewBox="0 0 2312 1180" height="1180" inkscape:voditka="{&quot;voditkoHorValues&quot;:[1895.0,1840.0,50.0,2262.0],&quot;voditkoVerValues&quot;:[499.7495219885277,1155.0,115.0,25.0]}" xmlns="http://www.w3.org/2000/svg">
+<style id="mySCADAFontCSSs" xml:space="preserve">
+@font-face{font-family:&apos;Consolas&apos;;src:url(&apos;Fonts/consola.ttf&apos;);}@font-face{font-family:&apos;Ubuntu&apos;;src:url(&apos;Fonts/Ubuntu-R.ttf&apos;);}@font-face{font-family:&apos;Consolas#B&apos;;src:url(&apos;Fonts/consolab.ttf&apos;);}@font-face{font-family:&apos;Roboto#B&apos;;src:url(&apos;Fonts/Roboto-Bold.ttf&apos;);}@font-face{font-family:&apos;Consolas#BI&apos;;src:url(&apos;Fonts/consolaz.ttf&apos;);}@font-face{font-family:&apos;Segoe UI#B&apos;;src:url(&apos;Fonts/segoeuib.ttf&apos;);}@font-face{font-family:&apos;Microsoft Sans Serif&apos;;src:url(&apos;Fonts/micross.ttf&apos;);}@font-face{font-family:&apos;Exo 2&apos;;src:url(&apos;Fonts/Exo2-Regular.ttf&apos;);}@font-face{font-family:&apos;Segoe UI#BI&apos;;src:url(&apos;Fonts/segoeuiz.ttf&apos;);}@font-face{font-family:&apos;Segoe UI&apos;;src:url(&apos;Fonts/segoeui.ttf&apos;);}@font-face{font-family:&apos;Segoe UI#I&apos;;src:url(&apos;Fonts/segoeuii.ttf&apos;);}@font-face{font-family:&apos;Ubuntu#BI&apos;;src:url(&apos;Fonts/Ubuntu-Bold.ttf&apos;);}@font-face{font-family:&apos;Exo 2#B&apos;;src:url(&apos;Fonts/Exo2-Bold.ttf&apos;);}@font-face{font-family:&apos;Roboto&apos;;src:url(&apos;Fonts/Roboto-Regular.ttf&apos;);}@font-face{font-family:&apos;Ubuntu#B&apos;;src:url(&apos;Fonts/Ubuntu-B.ttf&apos;);}@font-face{font-family:&apos;Consolas#I&apos;;src:url(&apos;Fonts/consolai.ttf&apos;);}@font-face{font-family:&apos;Ubuntu#I&apos;;src:url(&apos;Fonts/Ubuntu-RI.ttf&apos;);}</style>
+<defs/>
+<rect x="0" width="2312" y="0" height="1180" id="pozadiNoSeL" style="stroke:#ECECEC;fill:#ECECEC;stoke:#ffffff;"/>
+<style type="text/css" xml:space="preserve">
+* {    -webkit-touch-callout: none;    -webkit-user-select: none; /* Disable selection/Copy of UIWebView */        -ms-user-select: none;    user-select: none;    -moz-user-select: none;}</style>
+<g inkscape:groupmode="layer" id="layer0" style="display:inline;" inkscape:layerlabel="Background">
+<g style="stroke:#000000;" id="g0037"/>
+<g id="g0027">
+<rect x="23.688290502688005" y="879.0228211779006" width="546.9422136072939" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#ffffff;stroke:none;stroke-linecap:butt;" rx="42.75417071994741" height="146.27899576673417" id="rect0011" ry="73.13949788336708"/>
+<text x="667.175572519084" y="135.87786259541983" id="text0004" style="font-weight:bold;font-size:24pt;font-family:&apos;Roboto&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(0.8546440005302429 0 0 1.0362950563430786 -327.01654105084106 823.140655517578)">
+BOS026K</text>
+</g>
+<image xmlns:xlink="http://www.w3.org/1999/xlink" id="image0002" style="visibility:visible;opacity:0.8;" width="131.15030835244508" xlink:show="embed" xlink:type="simple" preserveAspectRatio="none meet" height="123.98686626738152" x="49.99999999999999" rx="0" ry="0" y="132.16430001610297" xlink:href="data/every/images/pobrane-removebg-preview.png" xlink:actuate="onLoad"/>
+<image xmlns:xlink="http://www.w3.org/1999/xlink" id="image0003" width="952.1823725148006" xlink:show="embed" xlink:type="simple" preserveAspectRatio="none meet" height="118.43064334761198" x="1263.9031395098787" rx="0" y="132.16430001610297" ry="0" xlink:href="data/every/images/Balluff_InovatingAutomation.png" xlink:actuate="onLoad"/>
+<g inkscape:componentSize="1763.7435302734375;284.4124450683594;254.8323974609375;561.90625" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Display&quot;,&quot;desc&quot;:&quot;Digital display&quot;,&quot;uniqueID&quot;:&quot;acd75d672b&quot;,&quot;MasterID&quot;:&quot;242980160&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;*Tag;Tag&quot;,&quot;desc&quot;:&quot;Enter Tag&quot;,&quot;value&quot;:&quot;DB2.R4@Network_Panel_PLC&quot;,&quot;valueSub&quot;:&quot;BOS0285_Vibration_Value&quot;,&quot;type&quot;:0,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color&quot;,&quot;name&quot;:&quot;*Appearance;Color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#999999&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;showtxt&quot;,&quot;name&quot;:&quot;Show text&quot;,&quot;desc&quot;:&quot;Show text&quot;,&quot;value&quot;:&quot;1&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;colortxt&quot;,&quot;name&quot;:&quot;Text color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#FFFFFF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;format&quot;,&quot;name&quot;:&quot;Format&quot;,&quot;desc&quot;:&quot;Set format&quot;,&quot;value&quot;:&quot;##.##&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;unit&quot;,&quot;name&quot;:&quot;Unit&quot;,&quot;desc&quot;:&quot;Set unit&quot;,&quot;value&quot;:&quot;rms&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;minimumlimit&quot;,&quot;name&quot;:&quot;*Limits;Min&quot;,&quot;desc&quot;:&quot;Set value&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:10,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;maximumlimit&quot;,&quot;name&quot;:&quot;Max&quot;,&quot;desc&quot;:&quot;Set value&quot;,&quot;value&quot;:&quot;60&quot;,&quot;valueSub&quot;:&quot;60&quot;,&quot;type&quot;:10,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}" id="Comp02359381">
+<g style="display:inline;" id="g0001">
+<rect x="1763.7435863422193" y="284.41249559157893" width="254.832226192314" style="fill:#e6e6e6;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="3" id="02359381rect0004" height="561.9061482162801" ry="3"/>
+<rect x="-631.5450742450348" y="-210.91994774974145" transform="matrix(-3.9817537871356055 -0 -0 -2.902102593398851 -496.0810284074377 234.2073104903494)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;bar&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;minimumlimit&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;maximumlimit&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;type&quot;:&quot;1&quot;}" width="63.99999999999994" inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;tag&quot;:&quot;DB2.R4@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Vibration_Value&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;=0&quot;,&quot;aliasMin&quot;:&quot;=0&quot;,&quot;max&quot;:&quot;=60&quot;,&quot;aliasMax&quot;:&quot;=60&quot;,&quot;type&quot;:&quot;1&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp02359381&quot;}" inkscape:vypln="color,100" style="visibility:visible;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#999999;stroke:none;stroke-linecap:butt;" rx="3" height="193.62036914721688" id="02359381rect0001" ry="3"/>
+</g>
+<g style="display:none;" id="g0010"/>
+<g style="display:inline;opacity:1.0;" id="g0011" inkscape:componentalign="bc">
+<text x="108.74999999999996" y="154.37499999999994" transform="matrix(2.6562626361846924 0 0 2.6562626361846924 1601.934430453338 409.0540771484375)" inkscape:lblTemplate="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;DB2.R4@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Vibration_Value&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp02359381&quot;}" style="visibility:visible;font-weight:bold;text-anchor:middle;font-size:10pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#FFFFFF;stroke:none;fill-opacity:1;" inkscape:vypln="colortxt,100" inkscape:textik="format+&quot; &quot;+unit" id="02359381text0001" inkscape:opac="showtxt;1;1">
+##.##rms</text>
+</g>
+<g myscada:layerActiveArea="YES" id="g0012"/>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="02359381positionCheckElementNoSeL" style="display:none" transform="matrix(3.9817538261413574 0 0 2.9021027088165283 1763.743512484588 284.412353515625)"/>
+</g>
+<g inkscape:componentSize="797.2022705078125;276.7830810546875;649.1031494140625;569.5355834960938" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Display&quot;,&quot;desc&quot;:&quot;Digital display&quot;,&quot;uniqueID&quot;:&quot;e2c90f5df0&quot;,&quot;MasterID&quot;:&quot;306303258&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;*Connection;tag&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;valueSub&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;type&quot;:0,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;min&quot;,&quot;name&quot;:&quot;*Limits;Min&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;0&quot;,&quot;type&quot;:10,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;hlimit&quot;,&quot;name&quot;:&quot;H Limit&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;30000&quot;,&quot;valueSub&quot;:&quot;30000&quot;,&quot;type&quot;:10,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;colorh&quot;,&quot;name&quot;:&quot;color&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;#2D8DAB&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;hhlimit&quot;,&quot;name&quot;:&quot;HH Limit (Max)&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;30000&quot;,&quot;valueSub&quot;:&quot;30000&quot;,&quot;type&quot;:10,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;colorhh&quot;,&quot;name&quot;:&quot;color&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;#2D8DAB&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;label&quot;,&quot;name&quot;:&quot;*Visuals;Label&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;Transducer Value&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;units&quot;,&quot;name&quot;:&quot;Units&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;background&quot;,&quot;name&quot;:&quot;background&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;#ECECEC&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color&quot;,&quot;name&quot;:&quot;color&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;#2D8DAB&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;format&quot;,&quot;name&quot;:&quot;*Text;Format&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;#.###&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;panelColor&quot;,&quot;name&quot;:&quot;Panel color&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;#FFFFFF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}" id="Comp78796014">
+<g style="display:inline;" id="g0013">
+<rect x="366.97046913764945" y="376.8233558888873" transform="matrix(1.5454837329428885 0 0 1.5476510000273411 230.0554253943672 -306.40798290666254)" width="420" inkscape:vypln="panelColor,100" style="fill:#FFFFFF;stroke:#000000; stroke-width:0;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="10" height="219" id="78796014rect0002" ry="10"/>
+<linearGradient gradientTransform="" x1="0%" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="objectBoundingBox" x2="100%" y1="0%" y2="0%" xlink:type="simple" xlink:actuate="onLoad" id="7879601420839620lin0002" xlink:show="other" spreadMethod="pad">
+<stop style="stop-color:#ef7900;stop-opacity:1.0;" offset="0%" id="78796014stop0001"/>
+<stop style="stop-color:#f7bc7f;stop-opacity:1.0;" offset="100%" id="78796014stop0002"/>
+</linearGradient>
+<linearGradient gradientTransform="" x1="0%" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="objectBoundingBox" x2="100%" y1="0%" y2="0%" xlink:type="simple" xlink:actuate="onLoad" id="7879601420839620lin0001" xlink:show="other" spreadMethod="pad">
+<stop style="stop-color:#ffff00;stop-opacity:1.0;" offset="0%" id="78796014stop0003"/>
+<stop style="stop-color:#ff9900;stop-opacity:1.0;" offset="51%" id="78796014stop0004"/>
+<stop offset="100%" style="stop-color:#ff0033;stop-opacity:1.0;" id="78796014stop0005"/>
+</linearGradient>
+<ellipse transform="matrix(1.5454837329428885 0 0 1.5476510000273411 230.0554253943672 -306.40798290666254)" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:20.0;fill:none;stroke:#e6e6e6;stroke-linecap:butt;" rx="156.5666655675068" cx="573.5371287773921" cy="573.3899382632607" ry="156.5665835411471" id="7879601420839620ellipse0001"/>
+<ellipse transform="matrix(1.5454837329428885 0 0 1.5476510000273411 230.0554253943672 -306.40798290666254)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;circleSector&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;min&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;hhlimit&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;angleFrom&quot;:&quot;0.0&quot;,&quot;aliasAngleFrom&quot;:&quot;&quot;,&quot;angleTo&quot;:&quot;180&quot;,&quot;aliasAngleTo&quot;:&quot;&quot;,&quot;reverse&quot;:&quot;No&quot;,&quot;isarc&quot;:&quot;Yes&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;hlimit&quot;,&quot;datamax&quot;:&quot;hhlimit&quot;,&quot;param&quot;:&quot;colorh&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;1&quot;},{&quot;data&quot;:&quot;hhlimit&quot;,&quot;datamax&quot;:&quot;999999&quot;,&quot;param&quot;:&quot;colorhh&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;1&quot;}]}" style="fill:none;stroke:#2D8DAB; stroke-width:20;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" inkscape:label="{&quot;attr&quot;:&quot;circleSector&quot;,&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;=0&quot;,&quot;aliasMin&quot;:&quot;=0&quot;,&quot;max&quot;:&quot;=30000&quot;,&quot;aliasMax&quot;:&quot;=30000&quot;,&quot;angleFrom&quot;:&quot;0.0&quot;,&quot;aliasAngleFrom&quot;:&quot;&quot;,&quot;angleTo&quot;:&quot;180&quot;,&quot;aliasAngleTo&quot;:&quot;&quot;,&quot;reverse&quot;:&quot;No&quot;,&quot;isarc&quot;:&quot;Yes&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;=30000&quot;,&quot;datamax&quot;:&quot;=30000&quot;,&quot;param&quot;:&quot;#2D8DAB&quot;,&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;aliasMin&quot;:&quot;=30000&quot;,&quot;aliasMax&quot;:&quot;=30000&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;1&quot;},{&quot;data&quot;:&quot;=30000&quot;,&quot;datamax&quot;:&quot;999999&quot;,&quot;param&quot;:&quot;#2D8DAB&quot;,&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;aliasMin&quot;:&quot;=30000&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;1&quot;}]},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp78796014&quot;}" rx="156.5666655675068" cx="574.3199023797868" cy="574.1727711809668" id="7879601420839620ellipse0002" ry="156.5665835411471" inkscape:vyplnStroke="color"/>
+<g id="78796014g0002" myscada:layerActiveArea="YES"/>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="7879601420839620positionCheckElementNoSeL" style="display:none" transform="matrix(2.4197123050689697 0 0 2.4231038093566895 851.4893188476562 315.6696472167969)"/>
+<text x="543.6" y="82.8" transform="matrix(1.2275129556655884 0 0 1.229233741760254 454.01751512523356 465.91427442588304)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;hlimit&quot;,&quot;datamax&quot;:&quot;hhlimit&quot;,&quot;param&quot;:&quot;colorh&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;},{&quot;data&quot;:&quot;hhlimit&quot;,&quot;datamax&quot;:&quot;9999999&quot;,&quot;param&quot;:&quot;colorhh&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}" inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;=30000&quot;,&quot;datamax&quot;:&quot;=30000&quot;,&quot;param&quot;:&quot;#2D8DAB&quot;,&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;aliasMin&quot;:&quot;=30000&quot;,&quot;aliasMax&quot;:&quot;=30000&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;},{&quot;data&quot;:&quot;=30000&quot;,&quot;datamax&quot;:&quot;9999999&quot;,&quot;param&quot;:&quot;#2D8DAB&quot;,&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;aliasMin&quot;:&quot;=30000&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp78796014&quot;}" inkscape:vypln="color,100" style="font-weight:bold;text-anchor:middle;font-size:48pt;font-family:&apos;Roboto&apos;;font-style:normal;fill:#2D8DAB;stroke:none;" id="78796014text0001">
+#.##</text>
+<rect x="392.970469137649" y="575.8233558888872" transform="matrix(1.5454837329428885 0 0 1.5476510000273411 230.0554253943672 -306.40798290666254)" width="360" inkscape:vypln="background,100" style="fill:#ECECEC;stroke:#000000; stroke-width:0;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="0" height="169" id="78796014rect0001" ry="0"/>
+<text x="543.6" y="82.8" transform="matrix(1.5454837083816528 0 0 1.5476510524749756 -27.57057762145994 185.0074462890625)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;hlimit&quot;,&quot;datamax&quot;:&quot;hhlimit&quot;,&quot;param&quot;:&quot;colorh&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;},{&quot;data&quot;:&quot;hhlimit&quot;,&quot;datamax&quot;:&quot;999999&quot;,&quot;param&quot;:&quot;colorhh&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;}]}" myscada:translation_cs="Senzor 1" inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;=30000&quot;,&quot;datamax&quot;:&quot;=30000&quot;,&quot;param&quot;:&quot;#2D8DAB&quot;,&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;aliasMin&quot;:&quot;=30000&quot;,&quot;aliasMax&quot;:&quot;=30000&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;},{&quot;data&quot;:&quot;=30000&quot;,&quot;datamax&quot;:&quot;999999&quot;,&quot;param&quot;:&quot;#2D8DAB&quot;,&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;aliasMin&quot;:&quot;=30000&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;}]},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp78796014&quot;}" style="font-weight:bold;font-size:14pt;font-family:&apos;Roboto&apos;;font-style:normal;fill:#2D8DAB;stroke:none;" inkscape:textik="label" inkscape:vypln="color,100"  id="78796014text0002">
+Transducer Value</text>
+<text x="543.6" y="82.8" transform="matrix(1.5454837083816528 0 0 1.5476510524749756 571.2232055664062 196.3849639892578)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;hlimit&quot;,&quot;datamax&quot;:&quot;hhlimit&quot;,&quot;param&quot;:&quot;colorh&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;},{&quot;data&quot;:&quot;hhlimit&quot;,&quot;datamax&quot;:&quot;999999&quot;,&quot;param&quot;:&quot;colorhh&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;}]}" myscada:translation_cs="Senzor 1" inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;=30000&quot;,&quot;datamax&quot;:&quot;=30000&quot;,&quot;param&quot;:&quot;#2D8DAB&quot;,&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;aliasMin&quot;:&quot;=30000&quot;,&quot;aliasMax&quot;:&quot;=30000&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;},{&quot;data&quot;:&quot;=30000&quot;,&quot;datamax&quot;:&quot;999999&quot;,&quot;param&quot;:&quot;#2D8DAB&quot;,&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;aliasMin&quot;:&quot;=30000&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;}]},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp78796014&quot;}" style="font-weight:normal;text-anchor:end;font-size:18pt;font-family:&apos;Exo 2&apos;;font-style:normal;fill:#2D8DAB;stroke:none;fill-opacity:0.5;" inkscape:textik="units" inkscape:vypln="color,100"  id="78796014text0003"/>
+<rect x="384.970469137649" y="574.8233558888872" transform="matrix(1.5454837329428885 0 0 1.5476510000273411 230.0554253943672 -306.40798290666254)" width="375" inkscape:vypln="panelColor,100" style="fill:#FFFFFF;stroke:#000000; stroke-width:0;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="0" height="21" id="78796014rect0003" ry="0"/>
+</g>
+<g myscada:layerActiveArea="YES" id="g0014"/>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="78796014positionCheckElementNoSeL" style="display:none" transform="matrix(1.5454837083816528 0 0 1.5476510524749756 797.2030639648438 276.7830810546875)"/>
+</g>
+<g myscada:userTag="" id="g0017">
+<rect x="674.8103235929519" y="627.3601157761714" width="893.8871379019689" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#ffffff;stroke:none;stroke-linecap:butt;" rx="10" id="rect0012" height="419.009600886532" ry="10"/>
+<text x="82.44274809160305" myscada:userTag="=currentPosition" y="229.00763358778624" transform="matrix(1.3966987133026123 0 0 1.3966987133026123 1039.2929204122017 369.2669677734375)" style="font-weight:bold;font-size:28pt;font-family:&apos;Segoe UI&apos;;font-style:normal;fill:#000000;stroke:none;" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;},{&quot;attr&quot;:&quot;setlist&quot;,&quot;listClick&quot;:[{&quot;attr&quot;:&quot;set&quot;,&quot;tag&quot;:&quot;&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;&quot;,&quot;type&quot;:&quot;&quot;,&quot;memory&quot;:&quot;NO&quot;,&quot;logging&quot;:&quot;NO&quot;,&quot;loggingText&quot;:&quot;&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;,&quot;lockEnable&quot;:&quot;NO&quot;,&quot;title&quot;:&quot;&quot;,&quot;batchID&quot;:1,&quot;data&quot;:{&quot;mainType&quot;:&quot;script&quot;,&quot;setType&quot;:&quot;&quot;,&quot;prompt&quot;:false,&quot;promptText&quot;:&quot;&quot;,&quot;scriptFunction&quot;:&quot;periodic&quot;}}],&quot;listDown&quot;:[],&quot;listUp&quot;:[]}" id="text0001">
+##.##</text>
+<g id="Comp99380639" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Live Chart&quot;,&quot;desc&quot;:&quot;Multi purpose live chart&quot;,&quot;uniqueID&quot;:&quot;0b6ca88399&quot;,&quot;MasterID&quot;:&quot;395214573&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;type&quot;,&quot;name&quot;:&quot;Type&quot;,&quot;desc&quot;:&quot;Chart type&quot;,&quot;value&quot;:&quot;0=Bar,5=Horizontal Bar,1=Pie,2=Doughnut,3=Polar,4=Radar&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:7,&quot;hide&quot;:true,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;legend&quot;,&quot;name&quot;:&quot;*Legend;Show Legend&quot;,&quot;desc&quot;:&quot;Show legend&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;positionoflegend&quot;,&quot;name&quot;:&quot;Position&quot;,&quot;desc&quot;:&quot;Position of legend&quot;,&quot;value&quot;:&quot;0=Top,1=Left,2=Right,3=Bottom&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:7,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;fonttype&quot;,&quot;name&quot;:&quot;Font family&quot;,&quot;desc&quot;:&quot;Font&quot;,&quot;value&quot;:&quot;&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:8,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;fontsize&quot;,&quot;name&quot;:&quot;Font size&quot;,&quot;desc&quot;:&quot;Font Size&quot;,&quot;value&quot;:&quot;11&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;legendfontcolor&quot;,&quot;name&quot;:&quot;Font Color&quot;,&quot;desc&quot;:&quot;Legend font color&quot;,&quot;value&quot;:&quot;#000000&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;animation&quot;,&quot;name&quot;:&quot;*Animation;Enable&quot;,&quot;desc&quot;:&quot;Enable for time animation on value change&quot;,&quot;value&quot;:&quot;1&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;animationtime&quot;,&quot;name&quot;:&quot;Time&quot;,&quot;desc&quot;:&quot;Time for animation in milisecond&quot;,&quot;value&quot;:&quot;1000&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;autoscale&quot;,&quot;name&quot;:&quot;*Autoscale;Enable Autoscale&quot;,&quot;desc&quot;:&quot;Enable autoscale&quot;,&quot;value&quot;:&quot;1&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;min&quot;,&quot;name&quot;:&quot;Min&quot;,&quot;desc&quot;:&quot;Minimum value&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;0&quot;,&quot;type&quot;:10,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;max&quot;,&quot;name&quot;:&quot;Max&quot;,&quot;desc&quot;:&quot;Maximum value&quot;,&quot;value&quot;:&quot;32000&quot;,&quot;valueSub&quot;:&quot;32000&quot;,&quot;type&quot;:10,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;grid&quot;,&quot;name&quot;:&quot;*Grid;Enable&quot;,&quot;desc&quot;:&quot;Enable grid&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;gridcolor&quot;,&quot;name&quot;:&quot;Color&quot;,&quot;desc&quot;:&quot;Grid color&quot;,&quot;value&quot;:&quot;#999999&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;tics&quot;,&quot;name&quot;:&quot;Show tics&quot;,&quot;desc&quot;:&quot;Show Tics&quot;,&quot;value&quot;:&quot;1&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;fonttype2&quot;,&quot;name&quot;:&quot;Font family&quot;,&quot;desc&quot;:&quot;Font family&quot;,&quot;value&quot;:&quot;Arial&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:8,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;fontsize2&quot;,&quot;name&quot;:&quot;Font size&quot;,&quot;desc&quot;:&quot;Font size&quot;,&quot;value&quot;:&quot;11&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;fontcolor2&quot;,&quot;name&quot;:&quot;Font Color&quot;,&quot;desc&quot;:&quot;Font color&quot;,&quot;value&quot;:&quot;#000000&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;border&quot;,&quot;name&quot;:&quot;Border show&quot;,&quot;desc&quot;:&quot;Show Border&quot;,&quot;value&quot;:&quot;1&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;opacity&quot;,&quot;name&quot;:&quot;*Other;Color opacity %&quot;,&quot;desc&quot;:&quot;Opacity of item colors&quot;,&quot;value&quot;:&quot;100&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;prefill&quot;,&quot;name&quot;:&quot;Prefill items&quot;,&quot;desc&quot;:&quot;Prefill items on chart start&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;datadesc&quot;,&quot;name&quot;:&quot;*Data Description;enable&quot;,&quot;desc&quot;:&quot;Enable data description&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;fonttype3&quot;,&quot;name&quot;:&quot;Font family&quot;,&quot;desc&quot;:&quot;Font Family&quot;,&quot;value&quot;:&quot;Arial&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:8,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;fontsize3&quot;,&quot;name&quot;:&quot;Font size&quot;,&quot;desc&quot;:&quot;Font size&quot;,&quot;value&quot;:&quot;11&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;fontcolor3&quot;,&quot;name&quot;:&quot;Font Color&quot;,&quot;desc&quot;:&quot;Font Color&quot;,&quot;value&quot;:&quot;#000000&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;opacity3&quot;,&quot;name&quot;:&quot;Opacity [%]&quot;,&quot;desc&quot;:&quot;Opacity&quot;,&quot;value&quot;:&quot;100&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;padding3&quot;,&quot;name&quot;:&quot;Text padding&quot;,&quot;desc&quot;:&quot;Padding of values&quot;,&quot;value&quot;:&quot;0=Top,1=Right,2=Bottom,3=Left&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:7,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;rotation3&quot;,&quot;name&quot;:&quot;Text rotation&quot;,&quot;desc&quot;:&quot;Text rotation&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;anchor3&quot;,&quot;name&quot;:&quot;Anchor&quot;,&quot;desc&quot;:&quot;Where will value appear&quot;,&quot;value&quot;:&quot;0=Center,1=Start,2=End&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:7,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;decplaces&quot;,&quot;name&quot;:&quot;Decimal Places&quot;,&quot;desc&quot;:&quot;Number of decimal places&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;unit3&quot;,&quot;name&quot;:&quot;Unit&quot;,&quot;desc&quot;:&quot;Units&quot;,&quot;value&quot;:&quot;&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;axisXhide&quot;,&quot;name&quot;:&quot;*Axes;X Axis Hide&quot;,&quot;desc&quot;:&quot;Hide x axis&quot;,&quot;value&quot;:&quot;1&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;maxTickCountX&quot;,&quot;name&quot;:&quot;X Axis ticks max&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;10&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;autorotateTicks&quot;,&quot;name&quot;:&quot;X Axis Autorotate&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;axisYhide&quot;,&quot;name&quot;:&quot;Hide Y Axis&quot;,&quot;desc&quot;:&quot;Hide y axis&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;maxTickCountY&quot;,&quot;name&quot;:&quot;Y axis ticks max&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;10&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;limitItems&quot;,&quot;name&quot;:&quot;*Limits;Limit no. of items&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;limitTime&quot;,&quot;name&quot;:&quot;Limit time in seconds&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;180&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;items&quot;,&quot;name&quot;:&quot;*Items;Items&quot;,&quot;desc&quot;:&quot;Items&quot;,&quot;value&quot;:&quot;{\&quot;list\&quot;:[{\&quot;variableName\&quot;:\&quot;tag\&quot;,\&quot;name\&quot;:\&quot;tag\&quot;,\&quot;desc\&quot;:\&quot;tag\&quot;,\&quot;value\&quot;:\&quot;\&quot;,\&quot;valueSub\&quot;:\&quot;\&quot;,\&quot;type\&quot;:0,\&quot;hide\&quot;:false,\&quot;translate\&quot;:false,\&quot;translations\&quot;:{}},{\&quot;variableName\&quot;:\&quot;name\&quot;,\&quot;name\&quot;:\&quot;name\&quot;,\&quot;desc\&quot;:\&quot;name\&quot;,\&quot;value\&quot;:\&quot;\&quot;,\&quot;valueSub\&quot;:\&quot;\&quot;,\&quot;type\&quot;:1,\&quot;hide\&quot;:false,\&quot;translate\&quot;:true,\&quot;translations\&quot;:{}},{\&quot;variableName\&quot;:\&quot;color\&quot;,\&quot;name\&quot;:\&quot;Color\&quot;,\&quot;desc\&quot;:\&quot;Color\&quot;,\&quot;value\&quot;:\&quot;#0099CC\&quot;,\&quot;valueSub\&quot;:\&quot;\&quot;,\&quot;type\&quot;:4,\&quot;hide\&quot;:false,\&quot;translate\&quot;:false,\&quot;translations\&quot;:{}},{\&quot;variableName\&quot;:\&quot;group\&quot;,\&quot;name\&quot;:\&quot;Group\&quot;,\&quot;desc\&quot;:\&quot;Group for data\&quot;,\&quot;value\&quot;:\&quot;1\&quot;,\&quot;valueSub\&quot;:\&quot;\&quot;,\&quot;type\&quot;:1,\&quot;hide\&quot;:true,\&quot;translate\&quot;:true,\&quot;translations\&quot;:{}},{\&quot;variableName\&quot;:\&quot;width\&quot;,\&quot;name\&quot;:\&quot;Line width\&quot;,\&quot;desc\&quot;:\&quot;\&quot;,\&quot;value\&quot;:\&quot;0\&quot;,\&quot;valueSub\&quot;:\&quot;\&quot;,\&quot;type\&quot;:3,\&quot;hide\&quot;:false,\&quot;translate\&quot;:false,\&quot;translations\&quot;:{}},{\&quot;variableName\&quot;:\&quot;pointStyle\&quot;,\&quot;name\&quot;:\&quot;Point Style\&quot;,\&quot;desc\&quot;:\&quot;\&quot;,\&quot;value\&quot;:\&quot;circle\&quot;,\&quot;valueSub\&quot;:\&quot;\&quot;,\&quot;type\&quot;:1,\&quot;hide\&quot;:false,\&quot;translate\&quot;:false,\&quot;translations\&quot;:{}},{\&quot;variableName\&quot;:\&quot;radius\&quot;,\&quot;name\&quot;:\&quot;Point Radius\&quot;,\&quot;desc\&quot;:\&quot;\&quot;,\&quot;value\&quot;:\&quot;0\&quot;,\&quot;valueSub\&quot;:\&quot;\&quot;,\&quot;type\&quot;:3,\&quot;hide\&quot;:false,\&quot;translate\&quot;:false,\&quot;translations\&quot;:{}}],\&quot;desc\&quot;:\&quot;Pen\&quot;}&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:6,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}" inkscape:componentSize="674.810302734375;707.8885498046875;893.8870849609375;338.481201171875" inkscape:label="{&quot;attr&quot;:&quot;chart&quot;,&quot;list&quot;:[{&quot;tag&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;parameters&quot;:{&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;tag&quot;,&quot;desc&quot;:&quot;tag&quot;,&quot;value&quot;:&quot;DB2.UINT2@Network_Panel_PLC&quot;,&quot;valueSub&quot;:&quot;BOS0285_Transducer_Value&quot;,&quot;type&quot;:0,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;name&quot;,&quot;name&quot;:&quot;name&quot;,&quot;desc&quot;:&quot;name&quot;,&quot;value&quot;:&quot;&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:true,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color&quot;,&quot;name&quot;:&quot;Color&quot;,&quot;desc&quot;:&quot;Color&quot;,&quot;value&quot;:&quot;#2D8DAB&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;group&quot;,&quot;name&quot;:&quot;Group&quot;,&quot;desc&quot;:&quot;Group for data&quot;,&quot;value&quot;:&quot;1&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:true,&quot;translate&quot;:true,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;width&quot;,&quot;name&quot;:&quot;Line width&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:3,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;pointStyle&quot;,&quot;name&quot;:&quot;Point Style&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;circle&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;radius&quot;,&quot;name&quot;:&quot;Point Radius&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:3,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}],&quot;desc&quot;:&quot;Pen&quot;}}]}">
+<g id="g0018">
+<rect x="674.8103050884461" y="707.8885334365191" width="893.8870739661792" style="fill:none;stroke:#000000; stroke-width:1;stroke-dasharray:6,3;stroke-linecap:butt;stroke-linejoin:miter;" rx="0" id="99380639rect0001" height="338.48118322618427" ry="0"/>
+<text x="174" y="109" id="99380639text0001" style="fill:#000000;stroke:none; font-family:&apos;Lucida Grande&apos;; font-size:12pt; font-style:normal; font-weight:normal;" transform="matrix(2.741985321044922 0 0 1.718178629875183 216.8990534513503 556.6890258789062)">
+Line Live Chart</text>
+</g>
+<g id="g0019" myscada:layerActiveArea="YES"/>
+<script xlink:actuate="onLoad" xlink:type="simple" id="script0001" xlink:show="other" myscada:nojsprefix="true" xmlns:xlink="http://www.w3.org/1999/xlink">
+<![CDATA[var Comp99380639={
+
+zacatek: function() 
+{ try{
+ this.init=function(svg,component,properties,values){
+
+    var elementRect=component.getElementsByTagName('rect');
+    var elre=elementRect[0];
+   // var bbox=elre.getBBox();
+    var bbox=this.myscada.myscadaGetBoundingBox(elre,component);
+    
+    
+    while (component.hasChildNodes()) {
+        component.removeChild(component.lastChild);
+      }
+      
+      
+      
+      var foreignObject = document.createElementNS('http://www.w3.org/2000/svg', 'foreignObject' );
+	foreignObject.setAttribute("transform","translate(0 0)");
+	var body = document.createElement('div'); // you cannot create bodies with .apend("<body />") for some reason
+        //body.style="height: "+bbox.height+"px; width: "+bbox.width+"px;"
+        $(body).css("height", bbox.height);
+        $(body).css("width", bbox.width);
+	var canvas = document.createElement('canvas');
+        $(body).append(canvas);
+      
+	//$(body).css("overflow", 'hidden');
+	$(foreignObject).attr('x', bbox.x).attr('y', bbox.y).attr("width", (bbox.width+1)).attr("height", (bbox.height+1)).append(body);
+
+        $(foreignObject).appendTo(component);
+
+      var opac=this.myscada.getCompVariable(properties,"opacity");
+   var opacity=parseInt(opac)/100;
+   
+   var groups=[]; //zjistime kolik ma uzivatel skupin
+   for (var i=0;i<values.list.length;i++)
+   {
+       values.list[i].parameters.list[3].value=i+"";
+       var hod=values.list[i].parameters.list[3].value;
+       if (groups.indexOf(hod) === -1)
+       {
+           groups.push(hod);
+       }
+   }
+   
+   var data= {
+            datasets: []
+        };
+        
+        this.dataToDataset={};
+                
+       var labels=[];         
+       for (var j=0;j<groups.length;j++)
+       {     
+            var backgroundColor=[];
+            var borderWidth=[];
+            var pointRadius=[];
+            var pointStyle=[];
+            var d=[];
+            var o={};
+            var lang=this.myscada.getLanguage();
+            for (var i=0;i<values.list.length;i++)
+            {
+                if (values.list[i].parameters.list[3].value===groups[j])
+                {
+                this.dataToDataset[i]=j;
+             
+                var desc=values.list[i].parameters.list[1].value;
+                var ooo=values.list[i].parameters.list[1];
+                if (ooo.translations && ooo.translations[lang]!==undefined)
+                {
+                    desc=ooo.translations[lang];
+                }
+                
+                
+                //if (j===0) labels.push(desc); 
+                var hex=values.list[i].parameters.list[2].value;
+                hex = hex.replace('#','');
+                 var r = parseInt(hex.substring(0,2), 16);
+                 var g = parseInt(hex.substring(2,4), 16);
+                 var b = parseInt(hex.substring(4,6), 16);
+                 var c = 'rgba('+r+','+g+','+b+','+opacity+')';
+                backgroundColor.push(c);
+              //  d.push(i);
+              
+             
+                    var bw=values.list[i].parameters.list[4].value;
+                    bw=parseFloat(bw);
+                    if (bw<=0) bw=1.5;
+                    borderWidth.push(bw);
+                    
+                     var pr=values.list[i].parameters.list[6].value;
+                    pr=parseFloat(pr);
+                   // if (pr<=0) pr=3;
+                    pointRadius.push(pr);
+                    
+                    var ps=values.list[i].parameters.list[5].value;
+                    pointStyle.push(ps);
+                }
+            }
+
+            o.data=d;
+            o.backgroundColor=backgroundColor[0];
+            o.borderColor=backgroundColor[0];
+            o.label=desc;
+            o.fill= false;
+            o.borderWidth=borderWidth[0];
+            o.pointRadius=pointRadius[0];
+            o.pointStyle=pointStyle[0];
+            data.datasets.push(o); 
+        }   
+        data.labels=labels;
+   
+   
+    this.groupCount=groups.length;
+
+       
+    var typ='line';
+    var type="99"; 
+    
+    
+    
+    this.animateTime=0;
+    var anim=this.myscada.getCompVariable(properties,"animation"); 
+    if (anim==='1') //ANIMATION
+    {
+        var animtime=this.myscada.getCompVariable(properties,"animationtime"); 
+        this.animateTime=parseInt(animtime); //ANIMATION TIME
+        
+    }
+    var fontSize=this.myscada.getCompVariable(properties,"fontsize"); 
+    var opt={
+        responsive: true,
+        maintainAspectRatio: false,
+        tooltips: {enabled: false},
+        legend: {labels:{fontSize: parseInt(fontSize)}}, //LEGEND FONT SIZE
+        animation: {duration: this.animateTime},
+        scales: {
+		xAxes: [{
+                        type: 'time',
+			gridLines: {},
+                        ticks:{
+				autoSkip: true} //source:'data'
+                            
+			},
+                    ],
+		yAxes: [{
+			gridLines: {},
+			ticks: {
+			}
+			}]
+		}
+        };
+        
+    
+    var autoscale=this.myscada.getCompVariable(properties,"autoscale"); 
+    
+    if (autoscale.startsWith("0"))
+    {
+        var minis=this.myscada.getCompVariable(properties,"min"); 
+        if (isNaN(minis))
+        {
+          this.minis = minis;
+        }
+        else
+        {
+           
+            opt.scales.yAxes[0].ticks.min=parseFloat(minis);
+           
+        }
+        
+        var maxis=this.myscada.getCompVariable(properties,"max"); 
+        if (isNaN(maxis))
+        {
+          this.maxis = maxis;
+        }
+        else
+        {
+           
+            opt.scales.yAxes[0].ticks.max=parseFloat(maxis);
+            
+        }
+        
+        
+    }
+    
+    var grid=this.myscada.getCompVariable(properties,"grid"); 
+    
+    if (grid.startsWith("0"))
+    {
+        //opt.scales.xAxes[0].gridLines.display=false;
+        opt.scales.yAxes[0].gridLines.display=false;
+    }
+    
+    
+    var border=this.myscada.getCompVariable(properties,"border"); 
+    if (border.startsWith("0"))
+    {
+      //  opt.scales.xAxes[0].gridLines.drawBorder=false;
+        opt.scales.yAxes[0].gridLines.drawBorder=false;
+    }
+    
+    
+    opt.scales.yAxes[0].gridLines.color=this.myscada.getCompVariable(properties,"gridcolor"); //grid color
+    
+    var tics=this.myscada.getCompVariable(properties,"tics");
+    if (tics.startsWith("0")) 
+    {
+        
+         opt.scales.yAxes[0].gridLines.drawTicks=false;
+     }
+    
+    var fonttype2=this.myscada.getCompVariable(properties,"fonttype2");
+    if (fonttype2.length>0) 
+    {   
+     opt.scales.yAxes[0].ticks.fontFamily=fonttype2; //font family grid
+    }
+    
+    this.prefill=this.myscada.getCompVariable(properties,"prefill");  //FONT COLOR
+   
+    var fontsize22=this.myscada.getCompVariable(properties,"fontsize2");
+     
+     opt.scales.yAxes[0].ticks.fontSize=parseFloat(fontsize22); //font family grid
+ 
+     var fontcolor2=this.myscada.getCompVariable(properties,"fontcolor2");
+     
+     opt.scales.yAxes[0].ticks.fontColor=fontcolor2; //font family grid
+     
+    var hideX=this.myscada.getCompVariable(properties,"axisXhide");
+    var hideY=this.myscada.getCompVariable(properties,"axisYhide");
+    
+    this.limitItems=this.myscada.getCompVariable(properties,"limitItems");
+     this.limitTime=this.myscada.getCompVariable(properties,"limitTime");
+    
+     if (hideY.startsWith('1') ) opt.scales.yAxes[0].display=false;
+//     if (properties.list[36].value.startsWith('1') )
+//     {
+//         opt.scales.xAxes[0].ticks.callback=function (data)
+//         {
+//           
+//             var h=Math.floor(data/60/60)+"";
+//                    if (h.length<2) h="0"+h;
+//                    var m=Math.floor((data-h*60*60)/60)+"";
+//                    if (m.length<2) m="0"+m;
+//                    var s=data-h*60*60-m*60+"";
+//                    if (s.length<2) s="0"+s;
+//                    return h+":"+m+":"+s;
+//         }
+//     }
+     
+     
+         
+//     if (properties.list[37].value.startsWith('1') )
+//     {
+//         for (var x=0;x<opt.scales.yAxes.length;x++)
+//         {
+//         opt.scales.yAxes[x].ticks.callback=function (data)
+//         {
+//        
+//             var h=Math.floor(data/60/60)+"";
+//                    if (h.length<2) h="0"+h;
+//                    var m=Math.floor((data-h*60*60)/60)+"";
+//                    if (m.length<2) m="0"+m;
+//                    var s=data-h*60*60-m*60+"";
+//                    if (s.length<2) s="0"+s;
+//                    return h+":"+m+":"+s;
+//         }
+//        }
+//     }
+     
+    var fonttype=this.myscada.getCompVariable(properties,"fonttype"); 
+    if (fonttype.length>0)
+    {
+        opt.legend.labels.fontFamily=fonttype;
+    }
+    
+    var fontcolor=this.myscada.getCompVariable(properties,"legendfontcolor");  //FONT COLOR
+    if (fontcolor.length>0)
+    {
+        opt.legend.labels.fontColor=fontcolor;
+    }
+        
+        
+        var legend=this.myscada.getCompVariable(properties,"legend");
+        if (legend==='1') //Legend ON/OFF
+       {
+       opt.legend.display = true; 
+       }
+       else
+       {
+       opt.legend.display = false; 
+       }
+
+        var positionoflegend=this.myscada.getCompVariable(properties,"positionoflegend");
+      if (positionoflegend.startsWith('0') ) opt.legend.position='top';
+      if (positionoflegend.startsWith('1') ) opt.legend.position='left';
+      if (positionoflegend.startsWith('2') ) opt.legend.position='right';
+      if (positionoflegend.startsWith('3') ) opt.legend.position='bottom';
+    
+    
+    
+            var datadesc=this.myscada.getCompVariable(properties,"datadesc");
+            
+            opt.plugins={};
+            opt.plugins.datalabels={};
+            opt.plugins.datalabels.display=false;
+            
+            if (datadesc==="1")
+            {
+            opt.plugins.datalabels.display=true;
+            
+            
+            var fonttype3=this.myscada.getCompVariable(properties,"fonttype3");
+            var fontsize3=this.myscada.getCompVariable(properties,"fontsize3");
+            var fontcolor3=this.myscada.getCompVariable(properties,"fontcolor3");
+            var opacity3=this.myscada.getCompVariable(properties,"opacity3");
+          
+            var rotation3=this.myscada.getCompVariable(properties,"rotation3");
+            var anchor3=this.myscada.getCompVariable(properties,"anchor3");
+            var decplaces=this.myscada.getCompVariable(properties,"decplaces");
+            
+            opt.plugins.datalabels.color= fontcolor3;
+        
+           
+            var unit3=this.myscada.getCompVariable(properties,"unit3");
+            
+         
+           
+            opt.plugins.datalabels.formatter=function (data,b)
+            {
+                    var r=data.y.toFixed(decplaces)+unit3;
+                    return r;
+            }.bind(this);
+            
+            
+            
+            if (anchor3.startsWith('0') ) opt.plugins.datalabels.anchor='center';
+            if (anchor3.startsWith('1') ) opt.plugins.datalabels.anchor='start';
+            if (anchor3.startsWith('2') ) opt.plugins.datalabels.anchor='end';
+                
+           
+                
+            opt.plugins.datalabels.font={};
+            if (fonttype3.length>0) opt.plugins.datalabels.font.family=fonttype3;
+            opt.plugins.datalabels.font.size=parseInt(fontsize3);
+            opt.plugins.datalabels.opacity=Math.round(parseInt(opacity3)/100);
+            
+            var padding3=this.myscada.getCompVariable(properties,"padding3");
+            
+            if (padding3.startsWith('0') ) opt.plugins.datalabels.padding='top';
+            if (padding3.startsWith('1') ) opt.plugins.datalabels.padding='rigth';
+            if (padding3.startsWith('2') ) opt.plugins.datalabels.padding='bottom';
+            if (padding3.startsWith('3') ) opt.plugins.datalabels.padding='left';
+            opt.plugins.datalabels.rotation=0-parseInt(rotation3);
+            
+            require(['chartjsplugins/chartjs-plugin-datalabels'], function () {
+           
+                delete(opt.scales.xAxes);
+                
+                this.objekt = new Chart(canvas, {
+                type: typ, 
+                data: data,
+                options: opt
+                });
+                
+                this.objekt.scales['x-axis-0'].options.gridLines.color=this.myscada.getCompVariable(properties,"gridcolor"); ; //grid color
+                if (tics.startsWith("0")) 
+                    {
+                         this.objekt.scales['x-axis-0'].options.gridLines.drawTicks=false;
+                     }
+                if (fonttype2.length>0) 
+                        {   
+                         this.objekt.scales['x-axis-0'].options.ticks.fontFamily=fonttype2; //font family grid
+                     }
+                this.objekt.scales['x-axis-0'].options.ticks.fontSize=parseFloat(fontsize22); //font family grid
+                this.objekt.scales['x-axis-0'].options.ticks.fontColor=fontcolor2; //font family grid
+                
+                if (grid.startsWith("0"))
+                {
+                    this.objekt.scales['x-axis-0'].options.gridLines.display=false;
+                }
+                
+                if (border.startsWith("0"))
+                    {
+                        this.objekt.scales['x-axis-0'].options.gridLines.drawBorder=false;
+                    }
+                component.objekt=this.objekt;
+                
+                 if (hideX.startsWith('1') ) this.objekt.scales['x-axis-0'].options.display=false;
+                 
+                 var maxTickCountX=this.myscada.getCompVariable(properties,"maxTickCountX");
+                 this.objekt.scales['x-axis-0'].options.ticks.maxTicksLimit=maxTickCountX;
+                 
+                 var maxTickCountY=this.myscada.getCompVariable(properties,"maxTickCountY");
+                 this.objekt.scales['y-axis-0'].options.ticks.maxTicksLimit=maxTickCountY;
+         
+                 var autorotateTicks=this.myscada.getCompVariable(properties,"autorotateTicks");
+             
+                 if (autorotateTicks.startsWith("0")) 
+                 {     
+                     this.objekt.scales['x-axis-0'].options.ticks.maxRotation=0;
+                 }
+                 
+                component.objekt=this.objekt;
+               // this.objekt.setDataLabels=this.setDatasetLabels;
+                
+            }.bind(this));
+            
+            }
+            else
+            {
+            
+               delete(opt.scales.xAxes)
+             
+
+                this.objekt = new Chart(canvas, {
+                type: typ, 
+                data: data,
+                options: opt
+                });
+               
+                this.objekt.scales['x-axis-0'].options.gridLines.color=this.myscada.getCompVariable(properties,"gridcolor"); ; //grid color
+                if (tics.startsWith("0")) 
+                    {
+                         this.objekt.scales['x-axis-0'].options.gridLines.drawTicks=false;
+                     }
+                if (fonttype2.length>0) 
+                        {   
+                         this.objekt.scales['x-axis-0'].options.ticks.fontFamily=fonttype2; //font family grid
+                     }
+                this.objekt.scales['x-axis-0'].options.ticks.fontSize=parseFloat(fontsize22); //font family grid
+                this.objekt.scales['x-axis-0'].options.ticks.fontColor=fontcolor2; //font family grid
+                
+                if (grid.startsWith("0"))
+                {
+                    this.objekt.scales['x-axis-0'].options.gridLines.display=false;
+                }
+                
+                if (border.startsWith("0"))
+                    {
+                        this.objekt.scales['x-axis-0'].options.gridLines.drawBorder=false;
+                    }
+                
+                
+                 if (hideX.startsWith('1') ) this.objekt.scales['x-axis-0'].options.display=false;
+                
+                var maxTickCountX=this.myscada.getCompVariable(properties,"maxTickCountX");
+                 this.objekt.scales['x-axis-0'].options.ticks.maxTicksLimit=maxTickCountX;
+                 
+                 var maxTickCountY=this.myscada.getCompVariable(properties,"maxTickCountY");
+                 this.objekt.scales['y-axis-0'].options.ticks.maxTicksLimit=maxTickCountY;
+                 
+                 var autorotateTicks=this.myscada.getCompVariable(properties,"autorotateTicks");
+        
+                 if (autorotateTicks.startsWith("0")) 
+                 {     
+                     this.objekt.scales['x-axis-0'].options.ticks.maxRotation=0;
+                 }
+                 
+               component.objekt=this.objekt;
+                //this.objekt.setDataLabels=this.setDatasetLabels;
+            }
+            
+            
+    
+ };
+
+this.formatDate=function (d)
+         {
+                     var h=d.getHours()+"";
+                     var m=d.getMinutes()+"";
+                     
+                     var s=d.getSeconds()+"";
+                    if (h.length<2) h="0"+h;
+                    
+                    if (m.length<2) m="0"+m;
+                    
+                    if (s.length<2) s="0"+s;
+                    return h+":"+m+":"+s;
+         }
+         
+this.setDatasetLabels=function(data){
+    var o=this.data.labels=data;
+
+}
+
+this.datarefresh=function(data){
+    
+    
+    if (this.minis!==undefined)
+    {
+        var minis=this.myscada.getTagValue(this.minis);
+       
+        if (minis!=null && minis!=this.minisValue)
+        {
+            this.minisValue=minis;
+           
+            this.objekt.config.options.scales.yAxes[0].ticks.min=parseFloat(minis);
+            
+        }
+    }
+    
+        if (this.maxis!==undefined)
+    {
+        var maxis=this.myscada.getTagValue(this.maxis);
+         
+        if (maxis!=null && maxis!=this.maxisValue)
+        {
+            this.maxisValue=maxis;
+            
+            this.objekt.config.options.scales.yAxes[0].ticks.max=parseFloat(maxis);
+            
+        }
+    }
+    
+   if (this.prefill=="1" && this.objekt.data.datasets[0].data.length===0)
+    {
+        
+        for (var k=0;k<this.groupCount;k++)
+        {
+            //var d=[];
+            for (var i=0;i<data.length;i++)
+            {
+                if (this.dataToDataset[i]===k)
+                {
+                    if (data[i].length>0)
+                            {
+                            var dd=data[i][0];
+                        }
+                        else
+                        {
+                             var dd=0;
+                        }
+                        
+                    var refresh=1000;
+                    try{
+                        refresh=this.myscada.__model.attributes.config.data.refresh;
+                    }catch (e){
+                        refresh=1000;
+                    }
+                    
+                    var limit=parseFloat(this.limitItems);
+                    if (parseFloat(this.limitTime)>0) 
+                    {    
+                        var pomLim=parseFloat(this.limitTime);
+                        pomLim=pomLim*1000/refresh;
+                        if (pomLim>limit) limit=pomLim;
+                    }
+                    
+                    var dddate=new Date();
+                    var dddateTime=dddate.getTime();
+                    for (var t=limit;t>0;t--)
+                    {
+                            var dddate2=dddateTime-t*refresh;
+                            var o={};
+                            o.x=new Date(dddate2);
+                            o.y=dd;
+                            o.t=o.x.valueOf();
+                            this.objekt.data.datasets[k].data.push(o);
+                            if (k==0) 
+                            {
+                                this.objekt.data.labels.push(this.formatDate(o.x));
+                            }
+                    }
+                    
+                   
+                }
+            }
+        }
+                
+        
+    }
+
+    for (var k=0;k<this.groupCount;k++)
+    {
+        //var d=[];
+        for (var i=0;i<data.length;i++)
+        {
+            if (this.dataToDataset[i]===k)
+            {
+                if (data[i].length>0)
+                {
+                var dd=data[i][0];
+                var o={};
+                o.x=new Date();
+                o.y=dd;
+                o.t=o.x.valueOf();
+                this.objekt.data.datasets[k].data.push(o);
+                if (this.limitItems>0 && this.objekt.data.datasets[k].data.length>this.limitItems)
+                {
+                    this.objekt.data.datasets[k].data.shift();
+                    if (k==0) this.objekt.data.labels.shift();
+                }
+                
+                if (k==0) 
+                    {
+                        this.objekt.data.labels.push(this.formatDate(o.x));
+                    }
+                }
+                else
+                {
+
+                    var o={};
+                    o.x=new Date();
+                    o.y=0;
+                    o.t=o.x.valueOf();
+                    this.objekt.data.datasets[k].data.push(o);
+                    if (this.limitItems>0 && this.objekt.data.datasets[k].data.length>this.limitItems)
+                        {
+                            this.objekt.data.datasets[k].data.shift();
+                            if (k==0) this.objekt.data.labels.shift();
+                        }
+                
+                 if (k==0)   this.objekt.data.labels.push(this.formatDate(o.x));
+                 
+                }
+            }
+        }
+        
+    }
+    
+   
+    //kontrola zaznamu dle casu
+     if (this.limitTime>0 )
+     {
+         
+         var date1=new Date();
+         date1=date1.getTime();
+         var pom=date1-this.limitTime*1000;
+         for (var k=0;k<this.groupCount;k++)
+            {
+                 while (this.objekt.data.datasets[k].data.length>0 && this.objekt.data.datasets[k].data[0].x.getTime()<pom)
+                 {
+                    this.objekt.data.datasets[k].data.shift();
+                     if (k==0 && this.objekt.data.labels.length>0) this.objekt.data.labels.shift();
+                 }
+             }
+     }
+     
+
+    this.objekt.update();
+ };
+
+
+this.remove=function(){
+    delete (this.objekt);
+ };
+
+}catch (e){ }
+}  
+}]]></script>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="99380639positionCheckElementNoSeL" style="display:none" transform="matrix(2.741985321044922 0 0 1.718178629875183 673.4394739835769 707.0297241210938)"/>
+</g>
+<text x="543.6"  id="text0005" y="82.8" style="font-weight:bold;font-size:20pt;font-family:&apos;Roboto&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1.3966987133026123 0 0 1.3966987133026123 -56.890087460385914 570.9774516869138)">
+Transducer Value:</text>
+</g>
+<text x="543.6"  y="82.8" id="text0006" style="font-weight:bold;text-anchor:end;font-size:28pt;font-family:&apos;Roboto&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1.0844576358795166 0 0 1.0844576358795166 883.3234668421117 590.6822397078677)">
+µm</text>
+<rect x="1605.259615906004" y="899.8740534815604" width="601.2682436868893" style="visibility:visible;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#ffffff;stroke:#ffffff;stroke-linecap:butt;" rx="19.545454545454504" height="75.10951275090292" id="rect0014" ry="19.545454545454504"/>
+<text x="1128.2442748091603" y="128.24427480916026" id="text0007" style="font-weight:bold;font-size:24pt;font-family:&apos;Roboto&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1.0865919589996338 0 0 0.9870484471321106 536.949292513885 818.1964721679688)">
+Vibration Alarm</text>
+<ellipse style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#ececec;stroke:#cccccc;stroke-linecap:butt;" inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0.5&quot;,&quot;datamax&quot;:&quot;1.5&quot;,&quot;param&quot;:&quot;#00CC33&quot;,&quot;tag&quot;:&quot;DB2.X10.0@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS_Vibration_Alarm&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;},{&quot;data&quot;:&quot;0&quot;,&quot;datamax&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#ececec&quot;,&quot;tag&quot;:&quot;DB2.X10.0@Network_Panel_PLC&quot;,&quot;alias&quot;:&quot;BOS_Vibration_Alarm&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;}]}" rx="17.75080697570047" cx="2141.5617693088307" cy="937.2152361262551" ry="16.124642624162846" id="ellipse0001"/>
+<g inkscape:label="{&quot;attr&quot;:&quot;open&quot;,&quot;command&quot;:&quot;&quot;,&quot;newWindow&quot;:&quot;&quot;,&quot;target&quot;:&quot;-1&quot;,&quot;lockEnable&quot;:&quot;No&quot;,&quot;openData&quot;:{&quot;type&quot;:&quot;html&quot;,&quot;screen&quot;:&quot;external&quot;,&quot;newWindow&quot;:{&quot;location&quot;:&quot;def&quot;,&quot;scale&quot;:95,&quot;resizable&quot;:false,&quot;sizeType&quot;:&quot;scaled&quot;,&quot;modal&quot;:false,&quot;topBar&quot;:true,&quot;closeButton&quot;:true,&quot;titleColor&quot;:&quot;#666666&quot;,&quot;textColor&quot;:&quot;#FFFFFF&quot;,&quot;title&quot;:&quot;&quot;,&quot;titleTrans&quot;:{}},&quot;target&quot;:-1,&quot;lockEnable&quot;:false,&quot;htmlCode&quot;:&quot;https://www.balluff.com/en-us/products/BOS026K&quot;,&quot;textScale&quot;:100,&quot;zoom&quot;:&quot;automatic&quot;},&quot;modal&quot;:false,&quot;topBar&quot;:false,&quot;closeButton&quot;:false,&quot;resize&quot;:false,&quot;titleColor&quot;:&quot;#1C648C&quot;,&quot;textColor&quot;:&quot;#FFFFFF&quot;,&quot;title&quot;:&quot;&quot;,&quot;titleTrans&quot;:{}}" style="fill:#ff0000;" id="g0020">
+<g inkscape:componentSize="50.0;25.0;2212.0;75.0" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Display&quot;,&quot;desc&quot;:&quot;Digital display&quot;,&quot;uniqueID&quot;:&quot;8033166ccb&quot;,&quot;MasterID&quot;:&quot;831928495&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter tag&quot;,&quot;value&quot;:&quot;&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:0,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color1&quot;,&quot;name&quot;:&quot;Base color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#fd0000&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color3&quot;,&quot;name&quot;:&quot;Stroke color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#fd0000&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;txt&quot;,&quot;name&quot;:&quot;Text&quot;,&quot;desc&quot;:&quot;Edit text&quot;,&quot;value&quot;:&quot;Find out more about the PHOTOELECTRIC DIFFUSE SENSOR&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:true,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;size&quot;,&quot;name&quot;:&quot;Text size&quot;,&quot;desc&quot;:&quot;Set size&quot;,&quot;value&quot;:&quot;14&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:2,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color2&quot;,&quot;name&quot;:&quot;Text color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#ffffff&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;glow&quot;,&quot;name&quot;:&quot;Glow&quot;,&quot;desc&quot;:&quot;Set glow&quot;,&quot;value&quot;:&quot;0&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}" id="Comp42817435">
+<linearGradient gradientTransform="rotate(270.0,0.5,0.5)" x1="0%" xmlns:xlink="http://www.w3.org/1999/xlink" y1="0%" x2="100%" gradientUnits="objectBoundingBox" y2="0%" xlink:type="simple" xlink:actuate="onLoad" id="42817435lin0001" xlink:show="other" spreadMethod="pad">
+<stop offset="0%" style="stop-color:#333333;stop-opacity:0.19;" id="stop0001"/>
+<stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.31;" id="stop0002"/>
+</linearGradient>
+<g style="display:inline;opacity:1.0;" id="g0021">
+<rect x="49.99999994936829" y="25.000000020371658" width="2211.9999483407264" inkscape:vypln="color1,100" style="fill:#fd0000;stroke:#fd0000; stroke-width:2;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="10" height="74.99999981785322" id="42817435rect0001" ry="10" inkscape:vyplnStroke="color3"/>
+<rect x="49.99999994936829" y="25.000000020371658" width="2211.9999483407264" style="visibility:hidden;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:url(#42817435lin0001);stroke:none;stroke-linecap:butt;" myscada:deleteme="true" rx="10" id="42817435rect0002" height="74.99999981785322" ry="10" inkscape:opac="glow;1;1"/>
+</g>
+<g id="g0022">
+<rect x="49.99999994936829" y="25.000000020371658" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;max&quot;:&quot;1.0&quot;}" width="2211.9999483407264" style="visibility:hidden;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#000000;stroke:none;fill-opacity:0.1;stroke-linecap:butt;" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1.0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp42817435&quot;}" rx="10" height="74.99999981785322" id="42817435rect0003" ry="10"/>
+</g>
+<g style="display:inline;opacity:1.0;" id="g0023" inkscape:componentalign="cc">
+<text x="251.8181818181818" y="239.0909090909091" transform="matrix(1.8435813188552856 0 0 1.911051630973816 690.86474609375 -382.7646179199219)" inkscape:vypln="color2,100" inkscape:textik="txt" style="font-weight:bold;text-anchor:middle;font-size:14pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#ffffff;stroke:none;" id="42817435text0001" inkscape:textFontSize="size">
+Find out more about the PHOTOELECTRIC DIFFUSE SENSOR</text>
+</g>
+<g style="display:inline;" id="g0024">
+<rect x="49.99999994936829" y="25.000000020371658" inkscape:lblTemplate="{&quot;attr&quot;:&quot;setlist&quot;,&quot;listClick&quot;:[],&quot;listDown&quot;:[{&quot;attr&quot;:&quot;set&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;tag&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;1&quot;,&quot;type&quot;:&quot;&quot;,&quot;memory&quot;:&quot;NO&quot;,&quot;logging&quot;:&quot;NO&quot;,&quot;loggingText&quot;:&quot;&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;,&quot;lockEnable&quot;:&quot;NO&quot;}],&quot;listUp&quot;:[{&quot;attr&quot;:&quot;set&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;tag&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;0&quot;,&quot;type&quot;:&quot;&quot;,&quot;memory&quot;:&quot;NO&quot;,&quot;logging&quot;:&quot;NO&quot;,&quot;loggingText&quot;:&quot;&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;,&quot;lockEnable&quot;:&quot;NO&quot;}]}" width="2211.9999483407264" style="visibility:visible;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#ffffff;stroke:none;fill-opacity:0.01;stroke-linecap:butt;" inkscape:label="{&quot;attr&quot;:&quot;setlist&quot;,&quot;listClick&quot;:[],&quot;listDown&quot;:[{&quot;attr&quot;:&quot;set&quot;,&quot;tag&quot;:&quot;&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;1&quot;,&quot;type&quot;:&quot;&quot;,&quot;memory&quot;:&quot;NO&quot;,&quot;logging&quot;:&quot;NO&quot;,&quot;loggingText&quot;:&quot;&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;,&quot;lockEnable&quot;:&quot;NO&quot;,&quot;title&quot;:&quot;&quot;,&quot;batchID&quot;:1}],&quot;listUp&quot;:[{&quot;attr&quot;:&quot;set&quot;,&quot;tag&quot;:&quot;&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;0&quot;,&quot;type&quot;:&quot;&quot;,&quot;memory&quot;:&quot;NO&quot;,&quot;logging&quot;:&quot;NO&quot;,&quot;loggingText&quot;:&quot;&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;,&quot;lockEnable&quot;:&quot;NO&quot;,&quot;title&quot;:&quot;&quot;,&quot;batchID&quot;:1}]},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp42817435&quot;}" rx="10" id="42817435rect0004" height="74.99999981785322" ry="10"/>
+</g>
+<g myscada:layerActiveArea="YES" id="g0025"/>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="42817435positionCheckElementNoSeL" style="display:none" transform="matrix(13.824996948242188 0 0 1.25 36.175132751464844 23.750152587890625)"/>
+</g>
+<g id="Comp47980857" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Component&quot;,&quot;desc&quot;:&quot;CD&quot;,&quot;uniqueID&quot;:&quot;a7f1797dac&quot;,&quot;MasterID&quot;:&quot;345791776&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;color&quot;,&quot;name&quot;:&quot;Color&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;#ffffff&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}" inkscape:componentSize="206.11212158203125;35.548519134521484;28.98211669921875;50.55056381225586">
+<path inkscape:vypln="color,100" id="path0001" d="M18 22.48V15c0-2.76 2.24-5 5-5s5 2.24 5 5v7.48c2.41-1.61 4-4.36 4-7.48 0-4.97-4.03-9-9-9s-9 4.03-9 9c0 3.12 1.59 5.87 4 7.48zm19.67 9.26l-9.08-4.52c-.34-.14-.7-.22-1.09-.22H26V15c0-1.66-1.34-3-3-3s-3 1.34-3 3v21.47l-6.85-1.43c-.15-.03-.31-.05-.47-.05-.62 0-1.18.26-1.59.66l-1.58 1.6 9.88 9.88c.55.54 1.3.88 2.12.88H35.1c1.51 0 2.66-1.11 2.87-2.56l1.51-10.54c.02-.14.03-.27.03-.41-.01-1.24-.77-2.31-1.84-2.76z" style="fill:#ffffff;" transform="matrix(0.9660705327987671 0 0 1.2032983303070068 196.92478942871094 28.32872772216797)"/>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="47980857positionCheckElementNoSeL" style="display:none" transform="matrix(0.9660705327987671 0 0 1.2032983303070068 196.92478942871094 28.32872772216797)"/>
+</g>
+<g id="Comp91860661" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Component&quot;,&quot;desc&quot;:&quot;CD&quot;,&quot;uniqueID&quot;:&quot;a7f1797dac&quot;,&quot;MasterID&quot;:&quot;345791776&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;color&quot;,&quot;name&quot;:&quot;Color&quot;,&quot;desc&quot;:&quot;&quot;,&quot;value&quot;:&quot;#ffffff&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}" inkscape:componentSize="2087.453369140625;37.9413948059082;28.982177734375;50.55056381225586">
+<path inkscape:vypln="color,100" id="path0002" d="M18 22.48V15c0-2.76 2.24-5 5-5s5 2.24 5 5v7.48c2.41-1.61 4-4.36 4-7.48 0-4.97-4.03-9-9-9s-9 4.03-9 9c0 3.12 1.59 5.87 4 7.48zm19.67 9.26l-9.08-4.52c-.34-.14-.7-.22-1.09-.22H26V15c0-1.66-1.34-3-3-3s-3 1.34-3 3v21.47l-6.85-1.43c-.15-.03-.31-.05-.47-.05-.62 0-1.18.26-1.59.66l-1.58 1.6 9.88 9.88c.55.54 1.3.88 2.12.88H35.1c1.51 0 2.66-1.11 2.87-2.56l1.51-10.54c.02-.14.03-.27.03-.41-.01-1.24-.77-2.31-1.84-2.76z" style="fill:#ffffff;" transform="matrix(0.9660705327987671 0 0 1.2032983303070068 2078.26611328125 30.721603393554688)"/>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="91860661positionCheckElementNoSeL" style="display:none" transform="matrix(0.9660705327987671 0 0 1.2032983303070068 2078.26611328125 30.721603393554688)"/>
+</g>
+</g>
+<image x="35.92924842296014" y="284.4124450683593" width="522.4602977667496" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data/every/images/BOS026K.png" xlink:type="simple" xlink:actuate="onLoad" height="522.4602977667494" id="image0001" preserveAspectRatio="none meet" xlink:show="embed"/>
+</g>
+<g inkscape:groupmode="layer" id="layer1" style="display:inline;" inkscape:layerlabel="left_Panel"/>
+<g inkscape:groupmode="layer" id="layer2" style="display:inline;" inkscape:layerlabel="plots"/>
+<g inkscape:groupmode="layer" myscada:layerActiveArea="YES" id="layer3" inkscape:layerlabel="ActiveArea">
+<g myscada:userTag="" id="ActiveArea0001" myscada:ActiveAreaData="{&quot;attr&quot;:&quot;aa&quot;,&quot;id&quot;:1,&quot;type&quot;:0,&quot;value&quot;:&quot;&quot;,&quot;zindex&quot;:1,&quot;x&quot;:0.0,&quot;y&quot;:0.0,&quot;width&quot;:1.0,&quot;height&quot;:1.0,&quot;parentid&quot;:&quot;&quot;,&quot;zoomable&quot;:false,&quot;transparent&quot;:false,&quot;mapOverlay&quot;:false}" inkscape:componentData="{}" inkscape:componentSize="0.0;0.0;1.0;1.0"/>
+</g>
+</svg>

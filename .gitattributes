@@ -1,0 +1,14 @@
+# SCADA File Types - No line ending conversion 
+*.svg.js binary 
+*.svg.mem binary 
+*.mer binary 
+*.hmi binary 
+*.scada binary 
+*.runtime binary 
+*.project binary 
+*.exe binary 
+*.dll binary 
+*.bin binary 
+*.dat binary 
+*.db binary 
+*.mdb binary 

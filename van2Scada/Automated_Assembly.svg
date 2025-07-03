@@ -1,0 +1,365 @@
+<svg contentScriptType="text/ecmascript" zoomAndPan="magnify" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" version="1.1" width="1920" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" preserveAspectRatio="xMidYMid meet" xmlns:myscada="http://www.myscada.org" viewBox="0 0 1920 898" inkscape:voditka="{&quot;voditkoHorValues&quot;:[],&quot;voditkoVerValues&quot;:[]}" height="898" xmlns="http://www.w3.org/2000/svg">
+<style id="mySCADAFontCSSs" xml:space="preserve">
+@font-face{font-family:&apos;Consolas&apos;;src:url(&apos;Fonts/consola.ttf&apos;);}@font-face{font-family:&apos;Ubuntu&apos;;src:url(&apos;Fonts/Ubuntu-R.ttf&apos;);}@font-face{font-family:&apos;Consolas#B&apos;;src:url(&apos;Fonts/consolab.ttf&apos;);}@font-face{font-family:&apos;Roboto#B&apos;;src:url(&apos;Fonts/Roboto-Bold.ttf&apos;);}@font-face{font-family:&apos;Consolas#BI&apos;;src:url(&apos;Fonts/consolaz.ttf&apos;);}@font-face{font-family:&apos;Segoe UI#B&apos;;src:url(&apos;Fonts/segoeuib.ttf&apos;);}@font-face{font-family:&apos;Microsoft Sans Serif&apos;;src:url(&apos;Fonts/micross.ttf&apos;);}@font-face{font-family:&apos;Exo 2&apos;;src:url(&apos;Fonts/Exo2-Regular.ttf&apos;);}@font-face{font-family:&apos;Segoe UI#BI&apos;;src:url(&apos;Fonts/segoeuiz.ttf&apos;);}@font-face{font-family:&apos;Segoe UI&apos;;src:url(&apos;Fonts/segoeui.ttf&apos;);}@font-face{font-family:&apos;Segoe UI#I&apos;;src:url(&apos;Fonts/segoeuii.ttf&apos;);}@font-face{font-family:&apos;Ubuntu#BI&apos;;src:url(&apos;Fonts/Ubuntu-Bold.ttf&apos;);}@font-face{font-family:&apos;Exo 2#B&apos;;src:url(&apos;Fonts/Exo2-Bold.ttf&apos;);}@font-face{font-family:&apos;Roboto&apos;;src:url(&apos;Fonts/Roboto-Regular.ttf&apos;);}@font-face{font-family:&apos;Ubuntu#B&apos;;src:url(&apos;Fonts/Ubuntu-B.ttf&apos;);}@font-face{font-family:&apos;Consolas#I&apos;;src:url(&apos;Fonts/consolai.ttf&apos;);}@font-face{font-family:&apos;Ubuntu#I&apos;;src:url(&apos;Fonts/Ubuntu-RI.ttf&apos;);}</style>
+<defs/>
+<rect x="0" width="1920" id="pozadiNoSeL" height="898" y="0" style="fill:#ffffff;stoke:#ffffff;"/>
+<image xmlns:xlink="http://www.w3.org/1999/xlink" id="pozadi2NoSeL" style="fill:#ffffff;stoke:#ffffff;" mySCADA_Background_stretch="YES" width="1920" xlink:show="embed" xlink:type="simple" preserveAspectRatio="none meet" bgImage="D:\Van2_Scada\Van2Scada_V1\data\every\images\General+Automation.png" height="898" x="0" y="0" xlink:href="data/every/images/General+Automation.png" xlink:actuate="onLoad"/>
+<style type="text/css" xml:space="preserve">
+* {    -webkit-touch-callout: none;    -webkit-user-select: none; /* Disable selection/Copy of UIWebView */        -ms-user-select: none;    user-select: none;    -moz-user-select: none;}</style>
+<g inkscape:groupmode="layer" id="layer0" style="display:inline;" inkscape:layerlabel="Background">
+<g inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB3.X15.1@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Selector_Switch_Middle&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1.0&quot;,&quot;aliasMax&quot;:&quot;&quot;}" style="visibility:visible;opacity:1.0;" id="g0014">
+<rect x="676.4753712143079" y="154.15375971502837" width="491.305346087375" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#ffffff;stroke:none;fill-opacity:0.75;stroke-linecap:butt;" rx="33.27100997075854" id="rect0001" height="115.69645177423749" ry="33.27100997075854"/>
+</g>
+<g inkscape:label="{&quot;attr&quot;:&quot;open&quot;,&quot;command&quot;:&quot;&quot;,&quot;newWindow&quot;:&quot;&quot;,&quot;target&quot;:&quot;-1&quot;,&quot;lockEnable&quot;:&quot;No&quot;,&quot;openData&quot;:{&quot;type&quot;:&quot;html&quot;,&quot;screen&quot;:&quot;external&quot;,&quot;newWindow&quot;:{&quot;location&quot;:&quot;def&quot;,&quot;scale&quot;:95,&quot;resizable&quot;:true,&quot;sizeType&quot;:&quot;scaled&quot;,&quot;modal&quot;:false,&quot;topBar&quot;:true,&quot;closeButton&quot;:true,&quot;titleColor&quot;:&quot;#666666&quot;,&quot;textColor&quot;:&quot;#FFFFFF&quot;,&quot;title&quot;:&quot;&quot;,&quot;titleTrans&quot;:{}},&quot;target&quot;:-1,&quot;lockEnable&quot;:false,&quot;htmlCode&quot;:&quot;https://www.balluff.com/en-us/products/BNI00CZ&quot;,&quot;textScale&quot;:100,&quot;zoom&quot;:&quot;automatic&quot;},&quot;modal&quot;:false,&quot;topBar&quot;:false,&quot;closeButton&quot;:false,&quot;resize&quot;:false,&quot;titleColor&quot;:&quot;#1C648C&quot;,&quot;textColor&quot;:&quot;#FFFFFF&quot;,&quot;title&quot;:&quot;&quot;,&quot;titleTrans&quot;:{}}" id="g0001">
+<g id="g0002">
+<ellipse rx="54.008315455217996" ry="54.0083154552178" id="ellipse0001" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#074763;stroke:none;fill-opacity:0.65;stroke-linecap:butt;" cx="551.4149680961407" cy="174.42494136490828"/>
+<ellipse rx="22.740343349566047" ry="22.740343349566075" id="ellipse0002" style="fill:#ffffff;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" cx="551.4149680961489" cy="174.42494136490902"/>
+</g>
+<image xmlns:xlink="http://www.w3.org/1999/xlink" id="image0001" style="visibility:visible;opacity:0.8;" width="31.287020836742386" xlink:show="embed" xlink:type="simple" preserveAspectRatio="none meet" height="26.35004940238457" x="534.966283329833" rx="0" ry="0" y="162.49811803713092" xlink:href="data/every/images/pobrane-removebg-preview.png" xlink:actuate="onLoad"/>
+</g>
+<g inkscape:label="{&quot;attr&quot;:&quot;open&quot;,&quot;command&quot;:&quot;&quot;,&quot;newWindow&quot;:&quot;&quot;,&quot;target&quot;:&quot;-1&quot;,&quot;lockEnable&quot;:&quot;No&quot;,&quot;openData&quot;:{&quot;type&quot;:&quot;win&quot;,&quot;screen&quot;:&quot;BOD002M&quot;,&quot;newWindow&quot;:{&quot;location&quot;:&quot;def&quot;,&quot;scale&quot;:95,&quot;resizable&quot;:true,&quot;sizeType&quot;:&quot;scaled&quot;,&quot;modal&quot;:false,&quot;topBar&quot;:true,&quot;closeButton&quot;:true,&quot;titleColor&quot;:&quot;#666666&quot;,&quot;textColor&quot;:&quot;#FFFFFF&quot;,&quot;title&quot;:&quot;&quot;,&quot;titleTrans&quot;:{}},&quot;target&quot;:-1,&quot;lockEnable&quot;:false,&quot;textScale&quot;:100,&quot;zoom&quot;:&quot;automatic&quot;},&quot;modal&quot;:false,&quot;topBar&quot;:false,&quot;closeButton&quot;:false,&quot;resize&quot;:false,&quot;titleColor&quot;:&quot;#1C648C&quot;,&quot;textColor&quot;:&quot;#FFFFFF&quot;,&quot;title&quot;:&quot;&quot;,&quot;titleTrans&quot;:{}}" id="g0003">
+<g id="g0004">
+<ellipse rx="54.008315455217996" ry="54.0083154552178" id="ellipse0003" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#074763;stroke:none;fill-opacity:0.65;stroke-linecap:butt;" cx="1384.9639461582738" cy="320.8047614815812"/>
+<ellipse rx="22.740343349566047" ry="22.740343349566075" id="ellipse0004" style="fill:#ffffff;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" cx="1384.9639461582817" cy="320.8047614815823"/>
+</g>
+<image xmlns:xlink="http://www.w3.org/1999/xlink" id="image0002" style="visibility:visible;opacity:0.8;" width="31.287020836742386" xlink:show="embed" xlink:type="simple" preserveAspectRatio="none meet" height="26.35004940238457" x="1368.5152613919659" rx="0" ry="0" y="308.87793815380405" xlink:href="data/every/images/pobrane-removebg-preview.png" xlink:actuate="onLoad"/>
+</g>
+<g inkscape:label="{&quot;attr&quot;:&quot;open&quot;,&quot;command&quot;:&quot;&quot;,&quot;newWindow&quot;:&quot;&quot;,&quot;target&quot;:&quot;-1&quot;,&quot;lockEnable&quot;:&quot;No&quot;,&quot;openData&quot;:{&quot;type&quot;:&quot;win&quot;,&quot;screen&quot;:&quot;BIP001N&quot;,&quot;newWindow&quot;:{&quot;location&quot;:&quot;def&quot;,&quot;scale&quot;:95,&quot;resizable&quot;:true,&quot;sizeType&quot;:&quot;scaled&quot;,&quot;modal&quot;:false,&quot;topBar&quot;:true,&quot;closeButton&quot;:true,&quot;titleColor&quot;:&quot;#666666&quot;,&quot;textColor&quot;:&quot;#FFFFFF&quot;,&quot;title&quot;:&quot;&quot;,&quot;titleTrans&quot;:{}},&quot;target&quot;:-1,&quot;lockEnable&quot;:false,&quot;textScale&quot;:100,&quot;zoom&quot;:&quot;automatic&quot;},&quot;modal&quot;:false,&quot;topBar&quot;:false,&quot;closeButton&quot;:false,&quot;resize&quot;:false,&quot;titleColor&quot;:&quot;#1C648C&quot;,&quot;textColor&quot;:&quot;#FFFFFF&quot;,&quot;title&quot;:&quot;&quot;,&quot;titleTrans&quot;:{}}" id="g0005">
+<g id="g0006">
+<ellipse rx="54.008315455217996" ry="54.0083154552178" id="ellipse0005" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#074763;stroke:none;fill-opacity:0.65;stroke-linecap:butt;" cx="942.9015423544383" cy="596.0248908305472"/>
+<ellipse rx="22.740343349566047" ry="22.740343349566075" id="ellipse0006" style="fill:#ffffff;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" cx="942.9015423544465" cy="596.0248908305479"/>
+</g>
+<image xmlns:xlink="http://www.w3.org/1999/xlink" id="image0003" style="visibility:visible;opacity:0.8;" width="31.287020836742386" xlink:show="embed" xlink:type="simple" preserveAspectRatio="none meet" height="26.35004940238457" x="926.4528937588334" rx="0" ry="0" y="584.0980717940035" xlink:href="data/every/images/pobrane-removebg-preview.png" xlink:actuate="onLoad"/>
+</g>
+<g inkscape:label="{&quot;attr&quot;:&quot;open&quot;,&quot;command&quot;:&quot;&quot;,&quot;newWindow&quot;:&quot;&quot;,&quot;target&quot;:&quot;-1&quot;,&quot;lockEnable&quot;:&quot;No&quot;,&quot;openData&quot;:{&quot;type&quot;:&quot;win&quot;,&quot;screen&quot;:&quot;BLA0009&quot;,&quot;newWindow&quot;:{&quot;location&quot;:&quot;def&quot;,&quot;scale&quot;:95,&quot;resizable&quot;:true,&quot;sizeType&quot;:&quot;scaled&quot;,&quot;modal&quot;:false,&quot;topBar&quot;:true,&quot;closeButton&quot;:true,&quot;titleColor&quot;:&quot;#666666&quot;,&quot;textColor&quot;:&quot;#FFFFFF&quot;,&quot;title&quot;:&quot;&quot;,&quot;titleTrans&quot;:{}},&quot;target&quot;:-1,&quot;lockEnable&quot;:false,&quot;textScale&quot;:100,&quot;zoom&quot;:&quot;automatic&quot;},&quot;modal&quot;:false,&quot;topBar&quot;:false,&quot;closeButton&quot;:false,&quot;resize&quot;:false,&quot;titleColor&quot;:&quot;#1C648C&quot;,&quot;textColor&quot;:&quot;#FFFFFF&quot;,&quot;title&quot;:&quot;&quot;,&quot;titleTrans&quot;:{}}" id="g0007">
+<g id="g0008">
+<ellipse rx="54.008315455217996" ry="54.0083154552178" id="ellipse0007" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#074763;stroke:none;fill-opacity:0.65;stroke-linecap:butt;" cx="1255.14793004817" cy="596.0248994130146"/>
+<ellipse rx="22.740343349566047" ry="22.740343349566075" id="ellipse0008" style="fill:#ffffff;stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" cx="1255.147930048178" cy="596.0248994130153"/>
+</g>
+<image xmlns:xlink="http://www.w3.org/1999/xlink" id="image0004" style="visibility:visible;opacity:0.8;" width="31.287020836742386" xlink:show="embed" xlink:type="simple" preserveAspectRatio="none meet" height="26.35004940238457" x="1238.6992452818622" rx="0" ry="0" y="584.0980760852373" xlink:href="data/every/images/pobrane-removebg-preview.png" xlink:actuate="onLoad"/>
+</g>
+<g inkscape:componentSize="16.448543548583984;562.0565185546875;228.2882843017578;251.72332763671875" id="Selector_Switch" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;uniqueID&quot;:&quot;51a8fdec94&quot;,&quot;MasterID&quot;:&quot;451637200&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter Tag&quot;,&quot;value&quot;:&quot;DB3.INT20@Automated_Assembly_PLC&quot;,&quot;valueSub&quot;:&quot;Selector_Switch_Int&quot;,&quot;type&quot;:0,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;text&quot;,&quot;name&quot;:&quot;Position 0&quot;,&quot;desc&quot;:&quot;Edit text&quot;,&quot;value&quot;:&quot;Scada&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;text1&quot;,&quot;name&quot;:&quot;Position 1&quot;,&quot;desc&quot;:&quot;Edit text&quot;,&quot;value&quot;:&quot;R&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;show&quot;,&quot;name&quot;:&quot;Position 2&quot;,&quot;desc&quot;:&quot;Show position&quot;,&quot;value&quot;:&quot;1&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:5,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;text2&quot;,&quot;name&quot;:&quot;Position 2&quot;,&quot;desc&quot;:&quot;Edit text&quot;,&quot;value&quot;:&quot;L&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;colorbase&quot;,&quot;name&quot;:&quot;Background color&quot;,&quot;desc&quot;:&quot;Change color&quot;,&quot;value&quot;:&quot;#58595B&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}">
+<linearGradient gradientTransform="rotate(43.0,0.5,0.5)" x1="0%" xmlns:xlink="http://www.w3.org/1999/xlink" y1="0%" x2="100%" gradientUnits="objectBoundingBox" y2="0%" xlink:type="simple" xlink:actuate="onLoad" id="13541362lin0002" xlink:show="other" spreadMethod="pad">
+<stop offset="32%" style="stop-color:#414141;stop-opacity:1.0;"/>
+<stop offset="51%" style="stop-color:#1b1b1b;stop-opacity:1.0;"/>
+<stop style="stop-color:#414141;stop-opacity:1.0;" offset="70%"/>
+</linearGradient>
+<radialGradient gradientTransform="" xmlns:xlink="http://www.w3.org/1999/xlink" id="13541362rad0001" gradientUnits="objectBoundingBox" spreadMethod="pad" xlink:show="other" xlink:type="simple" r="50%" cx="50%" fx="50%" fy="50%" cy="50%" xlink:actuate="onLoad">
+<stop offset="0%" style="stop-color:#ffcc00;stop-opacity:1.0;"/>
+<stop offset="88%" style="stop-color:#FFFFFF;stop-opacity:0.0;"/>
+<radialGradient gradientTransform="" xmlns:xlink="http://www.w3.org/1999/xlink" id="13541362rad0002" gradientUnits="objectBoundingBox" spreadMethod="pad" xlink:show="other" xlink:type="simple" r="50%" cx="50%" fx="50%" fy="50%" cy="50%" xlink:actuate="onLoad">
+<stop offset="0%" style="stop-color:#ffcc00;stop-opacity:1.0;"/>
+<stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0.0;"/>
+</radialGradient>
+<radialGradient gradientTransform="" xmlns:xlink="http://www.w3.org/1999/xlink" id="13541362rad0003" gradientUnits="objectBoundingBox" spreadMethod="pad" xlink:show="other" xlink:type="simple" r="50%" cx="50%" fx="50%" fy="50%" cy="50%" xlink:actuate="onLoad">
+<stop offset="0%" style="stop-color:#ffcc00;stop-opacity:1.0;"/>
+<stop offset="44%" style="stop-color:#FFFFFF;stop-opacity:0.0;"/>
+<radialGradient gradientTransform="" xmlns:xlink="http://www.w3.org/1999/xlink" id="13541362rad0004" gradientUnits="objectBoundingBox" spreadMethod="pad" xlink:show="other" xlink:type="simple" r="50%" cx="50%" fx="50%" fy="50%" cy="50%" xlink:actuate="onLoad">
+<stop offset="0%" style="stop-color:#ffcc00;stop-opacity:1.0;"/>
+<stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0.0;"/>
+</radialGradient>
+</radialGradient>
+</radialGradient>
+<g style="display:inline;" id="Comp13541362_layer0">
+<path inkscape:vypln="colorbase,100" id="13541362path0001" d="M213.969,63h-127c-4.971,0-9.137,3.779-9.137,8.75l5,99c0,0.316,0.085,0.629,0.117,0.937  c1.028,36.382,30.855,65.563,67.485,65.563c36.63,0,66.373-29.182,67.4-65.563c0.031-0.308-0.002-0.62-0.002-0.937l5-99  C222.832,66.779,218.939,63,213.969,63z" style="fill:#58595B;" transform="matrix(1.574402093887329 0 0 1.444610357284546 -106.0903091430664 471.0460387112802)"/>
+<text x="152.59259259259252" y="88.51851851851849" transform="matrix(1.574402093887329 0 0 1.444610357284546 -110.09359741210938 471.0460387112802)" inkscape:vypln="colortxt,100" inkscape:textik="text" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#FFFFFF;stroke:none;" id="13541362text0001">
+Scada</text>
+<text x="152.59259259259252" y="88.51851851851849" transform="matrix(1.574402093887329 0 0 1.444610357284546 -25.702308654785156 501.6555968167489)" inkscape:vypln="colortxt,100" inkscape:textik="text1" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#FFFFFF;stroke:none;" id="13541362text0002">
+R</text>
+<linearGradient gradientTransform="matrix(0.7071 0.7071 -0.7071 0.7071 198.7002 -38.2051)" x1="145.2339" xmlns:xlink="http://www.w3.org/1999/xlink" x2="145.2339" y1="275" gradientUnits="userSpaceOnUse" y2="167" xlink:type="simple" xlink:actuate="onLoad" id="13541362linearGradient0009" xlink:show="other">
+<stop style="stop-color:#363838" offset="0" id="13541362stop0089"/>
+<stop style="stop-color:#414042" offset="0.133" id="13541362stop0090"/>
+<stop style="stop-color:#414042" offset="0.2555" id="13541362stop0091"/>
+<stop style="stop-color:#414042" offset="1" id="13541362stop0092"/>
+</linearGradient>
+<radialGradient gradientTransform="matrix(0.707099974155426,-0.707099974155426,0.593999981880188,0.593999981880188,-59.71530770874023,204.2366033935547)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="174.5771" r="7.7813" xlink:actuate="onLoad" cy="191.6406" id="13541362radialGradient0005" xlink:show="other">
+<stop style="stop-color:#FBB040" offset="0" id="13541362stop0093"/>
+<stop style="stop-color:#FBB040;stop-opacity:0" offset="1" id="13541362stop0094"/>
+</radialGradient>
+<linearGradient gradientTransform="matrix(0.7071 0.7071 -0.7071 0.7071 198.7002 -38.2051)" x1="145.2339" xmlns:xlink="http://www.w3.org/1999/xlink" x2="145.2339" y1="275" gradientUnits="userSpaceOnUse" y2="167" xlink:type="simple" xlink:actuate="onLoad" id="13541362linearGradient0012" xlink:show="other">
+<stop style="stop-color:#363838" offset="0" id="13541362stop0095"/>
+<stop style="stop-color:#414042" offset="0.133" id="13541362stop0096"/>
+<stop style="stop-color:#414042" offset="0.2555" id="13541362stop0097"/>
+<stop style="stop-color:#414042" offset="1" id="13541362stop0098"/>
+</linearGradient>
+<radialGradient gradientTransform="matrix(0.707099974155426,-0.707099974155426,0.593999981880188,0.593999981880188,-59.71530770874023,204.2366033935547)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="174.5771" r="7.7813" xlink:actuate="onLoad" cy="191.6406" id="13541362radialGradient0007" xlink:show="other">
+<stop style="stop-color:#FBB040" offset="0" id="13541362stop0099"/>
+<stop style="stop-color:#FBB040;stop-opacity:0" offset="1" id="13541362stop0100"/>
+</radialGradient>
+</g>
+<g style="display:inline;" id="Comp13541362_layer1">
+<g inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1&quot;,&quot;max&quot;:&quot;1&quot;}" id="13541362g0005" style="visibility:hidden;" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB3.INT20@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Selector_Switch_Int&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Selector_Switch&quot;}">
+<g id="13541362g0006">
+<radialGradient gradientTransform="matrix(0.7071 0.7071 -0.7071 0.7071 286.4697 -230.4141)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="219.3213" r="60.501" xlink:actuate="onLoad" cy="418.7285" id="13541362radialGradient0001" xlink:show="other">
+<stop offset="0" style="stop-color:#B4B5B8" id="13541362stop0001"/>
+<stop offset="0.07" style="stop-color:#EFF0F2" id="13541362stop0002"/>
+<stop offset="0.13" style="stop-color:#E2E2E2" id="13541362stop0003"/>
+<stop offset="0.18" style="stop-color:#F6F7F9" id="13541362stop0004"/>
+<stop offset="0.26" style="stop-color:#DFDFDF" id="13541362stop0005"/>
+<stop offset="0.35" style="stop-color:#E5E6E7" id="13541362stop0006"/>
+<stop offset="0.46" style="stop-color:#5B5B5B" id="13541362stop0007"/>
+<stop offset="0.56" style="stop-color:#E5E6E7" id="13541362stop0008"/>
+<stop offset="0.75" style="stop-color:#505562" id="13541362stop0009"/>
+<stop offset="0.93" style="stop-color:#E6E7E8" id="13541362stop0010"/>
+<stop offset="1" style="stop-color:#B4B5B8" id="13541362stop0011"/>
+</radialGradient>
+<path id="13541362path0005" d="M188.249,263.53c-23.628,23.624-61.934,23.625-85.561,0c-23.626-23.628-23.626-61.935,0-85.561    c23.628-23.627,61.933-23.627,85.56,0S211.875,239.902,188.249,263.53z" style="fill:url(#13541362radialGradient0001);" transform="matrix(1.574402093887329 0 0 1.444610357284546 -98.43458557128906 396.2917967679208)"/>
+<linearGradient x1="100.5664" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="265.6514" x2="190.369" y2="175.8488" xlink:type="simple" xlink:actuate="onLoad" id="13541362linearGradient0001" xlink:show="other">
+<stop offset="0" style="stop-color:#000000;stop-opacity:0.2" id="13541362stop0012"/>
+<stop offset="0.1413" style="stop-color:#000000;stop-opacity:0.1788" id="13541362stop0013"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.05" id="13541362stop0014"/>
+</linearGradient>
+<path id="13541362path0006" d="M145.469,160.25c15.482,0,30.966,5.906,42.779,17.72c23.627,23.627,23.627,61.933,0.001,85.561    c-11.814,11.812-27.298,17.719-42.781,17.719c-15.483,0-30.966-5.906-42.779-17.719c-23.626-23.628-23.626-61.935,0-85.561    C114.502,166.156,129.985,160.25,145.469,160.25 M145.469,157.249c-16.961,0-32.907,6.605-44.901,18.6    c-24.758,24.758-24.758,65.043,0,89.803c11.994,11.993,27.94,18.598,44.901,18.598c16.962,0,32.908-6.604,44.902-18.598    c24.758-24.76,24.757-65.045-0.001-89.803C178.376,163.854,162.43,157.249,145.469,157.249L145.469,157.249z" style="fill:url(#13541362linearGradient0001);" transform="matrix(1.574402093887329 0 0 1.444610357284546 -98.43458557128906 396.2917967679208)"/>
+</g>
+<g id="13541362g0007">
+<g id="13541362g0008">
+<g style="opacity:0.8;" id="13541362g0009">
+<ellipse rx="85.33101744817768" ry="78.29643254999661" id="13541362ellipse0003" style="fill:#FFFFFF;" cx="130.59234376788777" cy="718.0786993714055"/>
+</g>
+<linearGradient gradientTransform="matrix(1.1132597923278809,1.0214840173721313,-1.1132596731185913,1.0214840173721313,352.5842590332031,63.43328388950283)" x1="165.1211" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="418.7285" x2="273.5215" y2="418.7285" xlink:type="simple" xlink:actuate="onLoad" id="13541362linearGradient0002" xlink:show="other">
+<stop offset="0" style="stop-color:#414141" id="13541362stop0015"/>
+<stop offset="0.22" style="stop-color:#3C3C3C" id="13541362stop0016"/>
+<stop offset="0.3153" style="stop-color:#393939" id="13541362stop0017"/>
+<stop offset="0.3837" style="stop-color:#303030" id="13541362stop0018"/>
+<stop offset="0.4436" style="stop-color:#202020" id="13541362stop0019"/>
+<stop offset="0.45" style="stop-color:#1E1E1E" id="13541362stop0020"/>
+<stop offset="0.55" style="stop-color:#1E1E1E" id="13541362stop0021"/>
+<stop offset="0.5564" style="stop-color:#202020" id="13541362stop0022"/>
+<stop offset="0.6163" style="stop-color:#303030" id="13541362stop0023"/>
+<stop offset="0.6847" style="stop-color:#393939" id="13541362stop0024"/>
+<stop offset="0.78" style="stop-color:#3C3C3C" id="13541362stop0025"/>
+<stop offset="1" style="stop-color:#414141" id="13541362stop0026"/>
+</linearGradient>
+<ellipse rx="85.33101744817768" ry="78.29643254999678" id="13541362ellipse0004" style="fill:url(#13541362linearGradient0002);" cx="130.59234376788777" cy="715.1894788119849"/>
+</g>
+<ellipse style="fill:none;stroke:#231F20;" rx="85.33101744817768" cx="130.59234376788777" ry="78.29643254999678" id="13541362ellipse0005" cy="715.1894788119849" stroke-miterlimit="10"/>
+</g>
+<linearGradient gradientTransform="matrix(0.7071 0.7071 -0.7071 0.7071 198.7002 -38.2051)" x1="145.2339" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="275" x2="145.2339" y2="167" xlink:type="simple" xlink:actuate="onLoad" id="13541362linearGradient0003" xlink:show="other">
+<stop offset="0" style="stop-color:#363838" id="13541362stop0031"/>
+<stop offset="0.133" style="stop-color:#414042" id="13541362stop0032"/>
+<stop offset="0.2555" style="stop-color:#414042" id="13541362stop0033"/>
+<stop offset="1" style="stop-color:#414042" id="13541362stop0034"/>
+</linearGradient>
+<path d="M124.625,265.635c-3.036,3.036-12.892-1.896-17.212-6.219l-0.456-0.457   c-4.322-4.322-9.741-14.662-6.705-17.697l35.516-29.858l34.102-31.273c3.035-3.035,8.966-2.026,13.289,2.297l0.539,0.538   c4.321,4.322,5.053,9.977,2.018,13.012l-31.254,34.121L124.625,265.635z" id="13541362path0007" style="fill:#4e4e4e;" transform="matrix(1.574402093887329 0 0 1.444610357284546 -98.43458557128906 396.2917967679208)"/>
+<path id="13541362path0008" d="M173.062,195.749c-0.691,0.692-1.815,0.693-2.508,0l-0.085-0.085c-0.692-0.692-0.691-1.815,0-2.508   l5.624-5.623c0.693-0.693,1.815-0.693,2.508,0l0.085,0.084c0.692,0.693,0.693,1.815,0,2.509L173.062,195.749z" style="fill:#FBB040;" transform="matrix(1.574402093887329 0 0 1.444610357284546 -98.43458557128906 396.2917967679208)"/>
+<radialGradient gradientTransform="matrix(0.707099974155426,-0.707099974155426,0.593999981880188,0.593999981880188,-59.71530770874023,204.2366033935547)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="174.5771" r="7.7813" xlink:actuate="onLoad" cy="191.6406" id="13541362radialGradient0002" xlink:show="other">
+<stop offset="0" style="stop-color:#FBB040" id="13541362stop0035"/>
+<stop offset="1" style="stop-color:#FBB040;stop-opacity:0" id="13541362stop0036"/>
+</radialGradient>
+<ellipse transform="matrix(0.8013665693312869 0.7101379652725393 -0.7739406677543782 0.7353029213339747 38.994325491896134 -635.756027316443)" style="fill:url(#13541362rad0001);stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="3.637826961770628" cx="978.1090622345868" cy="835.339485036529" ry="6.6317907444668265" id="13541362ellipse0006"/>
+</g>
+</g>
+<g style="display:inline;" id="Comp13541362_layer2">
+<g inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;2&quot;,&quot;max&quot;:&quot;2&quot;}" id="13541362g0014" style="visibility:visible;" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB3.INT20@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Selector_Switch_Int&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;2&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;2&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Selector_Switch&quot;}">
+<g id="13541362g0015">
+<radialGradient gradientTransform="matrix(0.7071 0.7071 -0.7071 0.7071 286.4697 -230.4141)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="219.3213" r="60.501" xlink:actuate="onLoad" cy="418.7285" id="13541362radialGradient0008" xlink:show="other">
+<stop style="stop-color:#B4B5B8" offset="0" id="13541362stop0063"/>
+<stop style="stop-color:#EFF0F2" offset="0.07" id="13541362stop0064"/>
+<stop style="stop-color:#E2E2E2" offset="0.13" id="13541362stop0065"/>
+<stop style="stop-color:#F6F7F9" offset="0.18" id="13541362stop0066"/>
+<stop style="stop-color:#DFDFDF" offset="0.26" id="13541362stop0067"/>
+<stop style="stop-color:#E5E6E7" offset="0.35" id="13541362stop0068"/>
+<stop style="stop-color:#5B5B5B" offset="0.46" id="13541362stop0069"/>
+<stop style="stop-color:#E5E6E7" offset="0.56" id="13541362stop0070"/>
+<stop style="stop-color:#505562" offset="0.75" id="13541362stop0071"/>
+<stop style="stop-color:#E6E7E8" offset="0.93" id="13541362stop0072"/>
+<stop style="stop-color:#B4B5B8" offset="1" id="13541362stop0073"/>
+</radialGradient>
+<path id="13541362path0012" d="M188.249,263.53c-23.628,23.624-61.934,23.625-85.561,0c-23.626-23.628-23.626-61.935,0-85.561    c23.628-23.627,61.933-23.627,85.56,0S211.875,239.902,188.249,263.53z" style="fill:url(#13541362radialGradient0008);" transform="matrix(-0.049547482281923294 -1.443894624710083 1.5736223459243774 -0.045462846755981445 -209.57591247558594 935.2655821683114)"/>
+<linearGradient x1="100.5664" xmlns:xlink="http://www.w3.org/1999/xlink" x2="190.369" y1="265.6514" gradientUnits="userSpaceOnUse" y2="175.8488" xlink:type="simple" xlink:actuate="onLoad" id="13541362linearGradient0010" xlink:show="other">
+<stop style="stop-color:#000000;stop-opacity:0.2" offset="0" id="13541362stop0074"/>
+<stop style="stop-color:#000000;stop-opacity:0.1788" offset="0.1413" id="13541362stop0075"/>
+<stop style="stop-color:#000000;stop-opacity:0.05" offset="1" id="13541362stop0076"/>
+</linearGradient>
+<path id="13541362path0013" d="M145.469,160.25c15.482,0,30.966,5.906,42.779,17.72c23.627,23.627,23.627,61.933,0.001,85.561    c-11.814,11.812-27.298,17.719-42.781,17.719c-15.483,0-30.966-5.906-42.779-17.719c-23.626-23.628-23.626-61.935,0-85.561    C114.502,166.156,129.985,160.25,145.469,160.25 M145.469,157.249c-16.961,0-32.907,6.605-44.901,18.6    c-24.758,24.758-24.758,65.043,0,89.803c11.994,11.993,27.94,18.598,44.901,18.598c16.962,0,32.908-6.604,44.902-18.598    c24.758-24.76,24.757-65.045-0.001-89.803C178.376,163.854,162.43,157.249,145.469,157.249L145.469,157.249z" style="fill:url(#13541362linearGradient0010);" transform="matrix(-0.049547482281923294 -1.443894624710083 1.5736223459243774 -0.045462846755981445 -209.57591247558594 935.2655821683114)"/>
+</g>
+<g id="13541362g0016">
+<g style="opacity:0.8;" id="13541362g0018">
+<ellipse transform="matrix(-0.05819091019817084 -1.6957783219844824 1.8481365124732472 -0.05339371787643702 -189.1002487724718 12.280236148382556)" style="fill:#FFFFFF;" rx="46.14851135181678" cx="-419.5349258398081" id="13541362ellipse0001" ry="46.148511351816765" cy="161.4749391336909"/>
+</g>
+<linearGradient gradientTransform="matrix(0.5828245878219604,-0.6207197308540344,0.6207197308540344,0.5828245878219604,76.56215720550969,32.01681598883442)" x1="165.1211" xmlns:xlink="http://www.w3.org/1999/xlink" x2="273.5215" y1="418.7285" gradientUnits="userSpaceOnUse" y2="418.7285" xlink:type="simple" xlink:actuate="onLoad" id="13541362linearGradient0011" xlink:show="other">
+<stop style="stop-color:#414141" offset="0" id="13541362stop0077"/>
+<stop style="stop-color:#3C3C3C" offset="0.22" id="13541362stop0078"/>
+<stop style="stop-color:#393939" offset="0.3153" id="13541362stop0079"/>
+<stop style="stop-color:#303030" offset="0.3837" id="13541362stop0080"/>
+<stop style="stop-color:#202020" offset="0.4436" id="13541362stop0081"/>
+<stop style="stop-color:#1E1E1E" offset="0.45" id="13541362stop0082"/>
+<stop style="stop-color:#1E1E1E" offset="0.55" id="13541362stop0083"/>
+<stop style="stop-color:#202020" offset="0.5564" id="13541362stop0084"/>
+<stop style="stop-color:#303030" offset="0.6163" id="13541362stop0085"/>
+<stop style="stop-color:#393939" offset="0.6847" id="13541362stop0086"/>
+<stop style="stop-color:#3C3C3C" offset="0.78" id="13541362stop0087"/>
+<stop style="stop-color:#414141" offset="1" id="13541362stop0088"/>
+</linearGradient>
+<ellipse transform="matrix(-0.05819091019817084 -1.6957783219844824 1.8481365124732472 -0.05339371787643702 -189.1002487724718 12.280236148382556)" style="fill:url(#13541362lin0002);" rx="46.14851135181678" cx="-419.5349258398081" id="13541362ellipse0011" ry="46.148511351816765" cy="159.7720106164927"/>
+<ellipse transform="matrix(-0.05819091019817084 -1.6957783219844824 1.8481365124732472 -0.05339371787643702 -189.1002487724718 12.280236148382556)" style="fill:none;stroke:#231F20;" rx="46.14851135181678" cx="-419.53472956013513" id="13541362ellipse0012" ry="46.148511351816765" cy="159.77161538496262" stroke-miterlimit="10"/>
+</g>
+<linearGradient gradientTransform="matrix(0.7071 0.7071 -0.7071 0.7071 198.7002 -38.2051)" x1="145.2339" xmlns:xlink="http://www.w3.org/1999/xlink" x2="145.2339" y1="275" gradientUnits="userSpaceOnUse" y2="167" xlink:type="simple" xlink:actuate="onLoad" id="13541362linearGradient0013" xlink:show="other">
+<stop style="stop-color:#363838" offset="0" id="13541362stop0101"/>
+<stop style="stop-color:#414042" offset="0.133" id="13541362stop0102"/>
+<stop style="stop-color:#414042" offset="0.2555" id="13541362stop0103"/>
+<stop style="stop-color:#414042" offset="1" id="13541362stop0104"/>
+</linearGradient>
+<path d="M124.625,265.635c-3.036,3.036-12.892-1.896-17.212-6.219l-0.456-0.457   c-4.322-4.322-9.741-14.662-6.705-17.697l35.516-29.858l34.102-31.273c3.035-3.035,8.966-2.026,13.289,2.297l0.539,0.538   c4.321,4.322,5.053,9.977,2.018,13.012l-31.254,34.121L124.625,265.635z" id="13541362path0014" style="fill:#4d4d4d;" transform="matrix(-0.049547482281923294 -1.443894624710083 1.5736223459243774 -0.045462846755981445 -209.57591247558594 935.2655821683114)"/>
+<path id="13541362path0015" d="M173.062,195.749c-0.691,0.692-1.815,0.693-2.508,0l-0.085-0.085c-0.692-0.692-0.691-1.815,0-2.508   l5.624-5.623c0.693-0.693,1.815-0.693,2.508,0l0.085,0.084c0.692,0.693,0.693,1.815,0,2.509L173.062,195.749z" style="fill:#FBB040;" transform="matrix(-0.049547482281923294 -1.443894624710083 1.5736223459243774 -0.045462846755981445 -209.57591247558594 935.2655821683114)"/>
+<radialGradient gradientTransform="matrix(0.707099974155426,-0.707099974155426,0.593999981880188,0.593999981880188,-59.71530770874023,204.2366033935547)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="174.5771" r="7.7813" xlink:actuate="onLoad" cy="191.6406" id="13541362radialGradient0009" xlink:show="other">
+<stop style="stop-color:#FBB040" offset="0" id="13541362stop0105"/>
+<stop style="stop-color:#FBB040;stop-opacity:0" offset="1" id="13541362stop0106"/>
+</radialGradient>
+<ellipse transform="matrix(0.7483378281651647 -0.757287202146237 0.8253261744427821 0.6866457700476247 -149.74462395922524 -378.020632214352)" style="fill:url(#13541362rad0001);stroke:none; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" rx="3.637826961770628" cx="-622.3311256021044" cy="846.6053037211037" ry="6.6317907444668265" id="13541362ellipse0013"/>
+</g>
+</g>
+<g style="display:inline;" id="Comp13541362_layer3">
+<g inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB3.INT20@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Selector_Switch_Int&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Selector_Switch&quot;}" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;0&quot;}" id="13541362g0001">
+<g id="13541362g0010">
+<radialGradient gradientTransform="matrix(1.574402093887329,-4.301153211372366E-9,4.687593424534953E-9,1.444610357284546,-215.1440887451172,319.7626524808114)" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" xlink:type="simple" cx="219.3193" r="60.501" xlink:actuate="onLoad" cy="273.7266" id="13541362radialGradient0003" xlink:show="other">
+<stop offset="0" style="stop-color:#B4B5B8" id="13541362stop0037"/>
+<stop offset="0.07" style="stop-color:#EFF0F2" id="13541362stop0038"/>
+<stop offset="0.13" style="stop-color:#E2E2E2" id="13541362stop0039"/>
+<stop offset="0.18" style="stop-color:#F6F7F9" id="13541362stop0040"/>
+<stop offset="0.26" style="stop-color:#DFDFDF" id="13541362stop0041"/>
+<stop offset="0.35" style="stop-color:#E5E6E7" id="13541362stop0042"/>
+<stop offset="0.46" style="stop-color:#5B5B5B" id="13541362stop0043"/>
+<stop offset="0.56" style="stop-color:#E5E6E7" id="13541362stop0044"/>
+<stop offset="0.75" style="stop-color:#505562" id="13541362stop0045"/>
+<stop offset="0.93" style="stop-color:#E6E7E8" id="13541362stop0046"/>
+<stop offset="1" style="stop-color:#B4B5B8" id="13541362stop0047"/>
+</radialGradient>
+<ellipse rx="95.25132485128414" ry="87.39892192244878" id="13541362ellipse0007" style="fill:url(#13541362radialGradient0003);" cx="130.1501636129912" cy="715.1873075180654"/>
+<linearGradient x1="145.4688" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="139.25" x2="145.4688" y2="12.25" xlink:type="simple" xlink:actuate="onLoad" id="13541362linearGradient0004" xlink:show="other">
+<stop offset="0" style="stop-color:#000000;stop-opacity:0.2" id="13541362stop0048"/>
+<stop offset="0.1413" style="stop-color:#000000;stop-opacity:0.1788" id="13541362stop0049"/>
+<stop offset="1" style="stop-color:#000000;stop-opacity:0.05" id="13541362stop0050"/>
+</linearGradient>
+<path d="M145.468,15.25c33.414,0,60.5,27.086,60.5,60.5c-0.002,33.412-27.088,60.499-60.5,60.5    c-33.414-0.001-60.5-27.088-60.5-60.5C84.969,42.335,112.055,15.25,145.468,15.25 M145.468,12.25    c-35.013,0-63.499,28.486-63.5,63.5c0,35.013,28.486,63.499,63.5,63.5c35.012-0.001,63.498-28.487,63.5-63.5    C208.968,40.736,180.481,12.25,145.468,12.25L145.468,12.25z" id="13541362path0009" style="fill:url(#13541362linearGradient0004);" transform="matrix(1.574402093887329 0 0 1.444610357284546 -98.876708984375 605.7581969144052)"/>
+</g>
+<g id="13541362g0011">
+<g id="13541362g0012">
+<g style="opacity:0.8;" id="13541362g0013">
+<ellipse rx="85.33101744817748" ry="78.29643254999655" id="13541362ellipse0008" style="fill:#FFFFFF;" cx="130.1501636129909" cy="718.076528077487"/>
+</g>
+<linearGradient gradientTransform="matrix(1.574402093887329,-4.301153211372366E-9,4.687593424534953E-9,1.444610357284546,-215.1440887451172,319.7626524808114)" x1="165.1201" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="273.7266" x2="273.5186" y2="273.7266" xlink:type="simple" xlink:actuate="onLoad" id="13541362linearGradient0005" xlink:show="other">
+<stop offset="0" style="stop-color:#414141" id="13541362stop0051"/>
+<stop offset="0.22" style="stop-color:#3C3C3C" id="13541362stop0052"/>
+<stop offset="0.3153" style="stop-color:#393939" id="13541362stop0053"/>
+<stop offset="0.3837" style="stop-color:#303030" id="13541362stop0054"/>
+<stop offset="0.4436" style="stop-color:#202020" id="13541362stop0055"/>
+<stop offset="0.45" style="stop-color:#1E1E1E" id="13541362stop0056"/>
+<stop offset="0.55" style="stop-color:#1E1E1E" id="13541362stop0057"/>
+<stop offset="0.5564" style="stop-color:#202020" id="13541362stop0058"/>
+<stop offset="0.6163" style="stop-color:#303030" id="13541362stop0059"/>
+<stop offset="0.6847" style="stop-color:#393939" id="13541362stop0060"/>
+<stop offset="0.78" style="stop-color:#3C3C3C" id="13541362stop0061"/>
+<stop offset="1" style="stop-color:#414141" id="13541362stop0062"/>
+</linearGradient>
+<ellipse rx="85.33101744817748" ry="78.29643254999655" id="13541362ellipse0009" style="fill:url(#13541362linearGradient0005);" cx="130.1501636129909" cy="715.1873075180671"/>
+</g>
+<ellipse style="fill:none;stroke:#231F20;" rx="85.33101744817748" cx="130.1501636129909" ry="78.29643254999655" id="13541362ellipse0010" cy="715.1873075180671" stroke-miterlimit="10"/>
+</g>
+<linearGradient x1="145.2349" xmlns:xlink="http://www.w3.org/1999/xlink" gradientUnits="userSpaceOnUse" y1="130" x2="145.2349" y2="21.999" xlink:type="simple" xlink:actuate="onLoad" id="13541362linearGradient0006" xlink:show="other">
+<stop offset="0" style="stop-color:#363838" id="13541362stop0107"/>
+<stop offset="0.133" style="stop-color:#414042" id="13541362stop0108"/>
+<stop offset="0.2555" style="stop-color:#414042" id="13541362stop0109"/>
+<stop offset="1" style="stop-color:#414042" id="13541362stop0110"/>
+</linearGradient>
+<path d="M162.469,122.227c0,4.293-10.457,7.774-16.568,7.773l-0.646-0.001   c-6.113,0-17.255-3.479-17.255-7.772L132,76l2-46.228C134,25.48,138.908,22,145.021,22l0.762-0.001   c6.111,0.001,10.627,3.481,10.627,7.774L158.438,76L162.469,122.227z" id="13541362path0010" style="fill:#4e4e4e;" transform="matrix(1.574402093887329 0 0 1.444610357284546 -98.876708984375 605.7581969144052)"/>
+<path d="M147.302,38.56c0,0.979-0.794,1.773-1.773,1.773h-0.12c-0.979,0-1.773-0.794-1.773-1.773v-7.953   c0-0.979,0.794-1.773,1.773-1.773h0.12c0.979,0,1.773,0.794,1.773,1.773V38.56z" id="13541362path0011" style="fill:#FFFFFF;" transform="matrix(1.574402093887329 0 0 1.444610357284546 -98.876708984375 605.7581969144052)"/>
+</g>
+<text x="152.59259259259252" y="88.51851851851849" transform="matrix(1.574402093887329 0 0 1.444610357284546 -192.5249481201172 501.6555968167489)" inkscape:textik="text2" style="visibility:visible;font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#FFFFFF;stroke:none;" id="13541362text0003" inkscape:opac="show;1;1">
+L</text>
+</g>
+<g id="Comp13541362_layer4" myscada:layerActiveArea="YES"/>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="13541362positionCheckElementNoSeL" style="display:none" transform="matrix(1.8490525484085083 0 0 1.696618914604187 16.448455810546875 562.0564146878427)"/>
+</g>
+<text x="170.5263157894737" y="191.05263157894737" id="text0001" style="font-weight:normal;font-size:26pt;font-family:&apos;Segoe UI&apos;;font-style:normal;fill:#ff0033;stroke:none;" transform="matrix(1.1272985534483055 0 0 1.1272985534483055 562.7176797020804 -18.66604427015037)" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB3.X15.1@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Selector_Switch_Middle&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1.0&quot;,&quot;aliasMax&quot;:&quot;&quot;}">
+Scada Mode Active</text>
+<text x="170.5263157894737" y="191.05263157894737" id="text0002" style="font-weight:normal;font-size:26pt;font-family:&apos;Segoe UI&apos;;font-style:normal;fill:#ff0033;stroke:none;" transform="matrix(1.1272985935211182 0 0 1.1272985935211182 523.1894981660223 28.891569137573228)" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB3.X15.1@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Selector_Switch_Middle&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1.0&quot;,&quot;aliasMax&quot;:&quot;&quot;}">
+Digital Control Engaged</text>
+<g id="Comp95999620" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;uniqueID&quot;:&quot;270656be8c&quot;,&quot;MasterID&quot;:&quot; 14463181&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter tag&quot;,&quot;value&quot;:&quot;DB4.X0.0@Automated_Assembly_PLC&quot;,&quot;valueSub&quot;:&quot;Push_Button_Start&quot;,&quot;type&quot;:0,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color0&quot;,&quot;name&quot;:&quot;Color1&quot;,&quot;desc&quot;:&quot;Select color for 1st state&quot;,&quot;value&quot;:&quot;#00cc00&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color1&quot;,&quot;name&quot;:&quot;Color2&quot;,&quot;desc&quot;:&quot;Select color for 2nd state&quot;,&quot;value&quot;:&quot;#cc0000&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;txt1&quot;,&quot;name&quot;:&quot;Text1&quot;,&quot;desc&quot;:&quot;Enter text for 1st state&quot;,&quot;value&quot;:&quot;ON&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;txt2&quot;,&quot;name&quot;:&quot;Text2&quot;,&quot;desc&quot;:&quot;Enter text for 2nd state&quot;,&quot;value&quot;:&quot;OFF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color2&quot;,&quot;name&quot;:&quot;Background color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#2A3D4F&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB3.X15.1@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Selector_Switch_Middle&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1.0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;setlist&quot;,&quot;listClick&quot;:[{&quot;attr&quot;:&quot;set&quot;,&quot;tag&quot;:&quot;DB4.X0.0@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Push_Button_Start&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;&quot;,&quot;type&quot;:&quot;&quot;,&quot;memory&quot;:&quot;NO&quot;,&quot;logging&quot;:&quot;NO&quot;,&quot;loggingText&quot;:&quot;&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;,&quot;lockEnable&quot;:&quot;NO&quot;,&quot;title&quot;:&quot;&quot;,&quot;batchID&quot;:1,&quot;data&quot;:{&quot;mainType&quot;:&quot;tag&quot;,&quot;setType&quot;:&quot;toggle&quot;,&quot;prompt&quot;:false,&quot;promptText&quot;:&quot;&quot;,&quot;connection&quot;:&quot;Automated_Assembly_PLC&quot;}}],&quot;listDown&quot;:[],&quot;listUp&quot;:[]}" inkscape:componentSize="614.4757690429688;55.197509765625;291.10845947265625;60.132904052734375">
+<g id="Comp95999620_layer0">
+<rect x="614.4757554745588" y="55.197509282700565" transform="matrix(1 -0 -0 -1 0 170.52792358398438)" width="291.10843731100545" inkscape:vypln="color2,100" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#2A3D4F;stroke:none;stroke-linecap:butt;" rx="5" height="60.13290333851688" id="95999620rect0004" ry="5"/>
+</g>
+<g style="opacity:1.0;" inkscape:componentalign="cr" id="Comp95999620_layer1">
+<text inkscape:textik="txt2" x="92.18965115356445" id="95999620text0002" y="248.18120609615147" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#000000;stroke:none;fill-opacity:0.32;" transform="matrix(1.252387523651123 -0 0 1.252387523651123 718.6121826171875 -218.43154907226562)">
+OFF</text>
+</g>
+<g id="Comp95999620_layer2">
+<rect x="760.0299741300615" y="55.19750928270051" transform="matrix(1 -0 -0 -1 0 170.52792358398438)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;0&quot;}" width="145.55421865550272" style="stroke-opacity:0.17;stroke-dashoffset:0.0;visibility:hidden;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:2;fill:#cc0000;stroke:#000000;stroke-linecap:butt;" inkscape:vypln="color1,100" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB4.X0.0@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Push_Button_Start&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp95999620&quot;}" rx="5" ry="5" id="95999620rect0007" height="60.13290333851687"/>
+</g>
+<g style="opacity:1.0;" inkscape:componentalign="cr" id="Comp95999620_layer3">
+<text x="92.18965115356445" y="248.18120609615147" transform="matrix(1.252387523651123 -0 0 1.252387523651123 718.6121826171875 -218.75210571289062)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;0&quot;}" style="visibility:hidden;font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#ffffff;stroke:none;" inkscape:textik="txt2" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB4.X0.0@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Push_Button_Start&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp95999620&quot;}" id="95999620text0003">
+OFF</text>
+</g>
+<g style="opacity:1.0;" inkscape:componentalign="cl" id="Comp95999620_layer4">
+<text inkscape:textik="txt1" x="92.18965115356445" id="95999620text0004" y="248.18120609615147" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#000000;stroke:none;fill-opacity:0.32;" transform="matrix(1.252387523651123 -0 0 1.252387523651123 573.0580444335938 -218.75213623046875)">
+ON</text>
+</g>
+<g id="Comp95999620_layer5">
+<rect x="614.4757554745588" y="55.197509282700565" transform="matrix(1 -0 -0 -1 0 170.52792358398438)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;max&quot;:&quot;1.0&quot;}" width="145.55421865550272" style="stroke-opacity:0.17;stroke-dashoffset:0.0;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:2;fill:#00cc00;stroke:#000000;stroke-linecap:butt;" inkscape:vypln="color0,100" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB4.X0.0@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Push_Button_Start&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1.0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp95999620&quot;}" rx="5" ry="5" height="60.13290333851688" id="95999620rect0006"/>
+</g>
+<g style="opacity:1.0;" inkscape:componentalign="cl" id="Comp95999620_layer6">
+<text x="92.18965115356445" y="248.18120609615147" transform="matrix(1.252387523651123 -0 0 1.252387523651123 573.0580444335938 -218.75210571289062)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;max&quot;:&quot;1.0&quot;}" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#ffffff;stroke:none;" inkscape:textik="txt1" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB4.X0.0@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Push_Button_Start&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1.0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp95999620&quot;}" id="95999620text0001">
+ON</text>
+</g>
+<g id="Comp95999620_layer7">
+<rect x="614.4757554745588" y="55.197509282700565" transform="matrix(1 -0 -0 -1 0 170.52792358398438)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;setlist&quot;,&quot;listClick&quot;:[{&quot;attr&quot;:&quot;set&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;tag&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;toggle&quot;,&quot;type&quot;:&quot;&quot;,&quot;memory&quot;:&quot;NO&quot;,&quot;logging&quot;:&quot;NO&quot;,&quot;loggingText&quot;:&quot;&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;,&quot;lockEnable&quot;:&quot;NO&quot;}],&quot;listDown&quot;:[],&quot;listUp&quot;:[]}" width="291.10843731100545" style="visibility:visible;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#ffffff;stroke:none;fill-opacity:0.01;stroke-linecap:butt;" inkscape:label="{&quot;attr&quot;:&quot;setlist&quot;,&quot;listClick&quot;:[{&quot;attr&quot;:&quot;set&quot;,&quot;tag&quot;:&quot;DB4.X0.0@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Push_Button_Start&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;toggle&quot;,&quot;type&quot;:&quot;&quot;,&quot;memory&quot;:&quot;NO&quot;,&quot;logging&quot;:&quot;NO&quot;,&quot;loggingText&quot;:&quot;&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;,&quot;lockEnable&quot;:&quot;NO&quot;,&quot;title&quot;:&quot;&quot;,&quot;batchID&quot;:1}],&quot;listDown&quot;:[],&quot;listUp&quot;:[]},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp95999620&quot;}" rx="5" ry="5" id="95999620rect0001" height="60.13290333851688"/>
+</g>
+<g id="Comp95999620_layer8" myscada:layerActiveArea="YES"/>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="95999620positionCheckElementNoSeL" style="display:none" transform="matrix(1.252387523651123 -0 0 1.252387523651123 613.2232666015625 53.94512939453125)"/>
+</g>
+<g inkscape:componentSize="1192.1052;300.0;0.0;0.0" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;uniqueID&quot;:&quot;dfca715e7e&quot;,&quot;MasterID&quot;:&quot;231239210&quot;,&quot;list&quot;:[]}" id="Comp69869543">
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="69869543positionCheckElementNoSeL" style="display:none" transform="matrix(1 0 0 1 1192.105224609375 300)"/>
+</g>
+<g id="Comp33608074" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;uniqueID&quot;:&quot;270656be8c&quot;,&quot;MasterID&quot;:&quot; 14463181&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter tag&quot;,&quot;value&quot;:&quot;DB4.INT2@Automated_Assembly_PLC&quot;,&quot;valueSub&quot;:&quot;Scada_motor_int&quot;,&quot;type&quot;:0,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color0&quot;,&quot;name&quot;:&quot;Color1&quot;,&quot;desc&quot;:&quot;Select color for 1st state&quot;,&quot;value&quot;:&quot;#0066ff&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color1&quot;,&quot;name&quot;:&quot;Color2&quot;,&quot;desc&quot;:&quot;Select color for 2nd state&quot;,&quot;value&quot;:&quot;#ff6600&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;txt1&quot;,&quot;name&quot;:&quot;Text1&quot;,&quot;desc&quot;:&quot;Enter text for 1st state&quot;,&quot;value&quot;:&quot;Left&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;txt2&quot;,&quot;name&quot;:&quot;Text2&quot;,&quot;desc&quot;:&quot;Enter text for 2nd state&quot;,&quot;value&quot;:&quot;Right&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:1,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color2&quot;,&quot;name&quot;:&quot;Background color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#2A3D4F&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}" inkscape:componentSize="938.671875;55.197509765625;291.1083984375;60.132904052734375" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB3.X15.1@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Selector_Switch_Middle&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1.0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;setlist&quot;,&quot;listClick&quot;:[{&quot;attr&quot;:&quot;set&quot;,&quot;tag&quot;:&quot;DB4.INT2@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Scada_motor_int&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;&quot;,&quot;type&quot;:&quot;&quot;,&quot;memory&quot;:&quot;NO&quot;,&quot;logging&quot;:&quot;NO&quot;,&quot;loggingText&quot;:&quot;&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;,&quot;lockEnable&quot;:&quot;NO&quot;,&quot;title&quot;:&quot;&quot;,&quot;batchID&quot;:1,&quot;data&quot;:{&quot;mainType&quot;:&quot;tag&quot;,&quot;setType&quot;:&quot;toggle&quot;,&quot;prompt&quot;:false,&quot;promptText&quot;:&quot;&quot;,&quot;connection&quot;:&quot;Automated_Assembly_PLC&quot;}}],&quot;listDown&quot;:[],&quot;listUp&quot;:[]}">
+<g id="g0017">
+<rect x="938.671880293253" y="55.19751096276694" width="291.10843731100556" inkscape:vypln="color2,100" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#2A3D4F;stroke:none;stroke-linecap:butt;" rx="5" id="33608074rect0004" height="60.13290333851687" ry="5"/>
+</g>
+<g style="opacity:1.0;" id="g0018" inkscape:componentalign="cr">
+<text inkscape:textik="txt2" x="92.18965115356445" y="248.18120609615147" id="33608074text0002" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#000000;stroke:none;fill-opacity:0.32;" transform="matrix(1.252387523651123 0 0 1.252387523651123 1042.8085557326044 -218.43153381347656)">
+Right</text>
+<title id="title0001"/>
+</g>
+<g id="g0019">
+<rect x="1084.2260989487559" y="55.19751096276701" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;0&quot;}" width="145.5542186555026" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB4.INT2@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Scada_motor_int&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp33608074&quot;}" inkscape:vypln="color1,100" style="stroke-opacity:0.17;stroke-dashoffset:0.0;visibility:hidden;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:2;fill:#ff6600;stroke:#000000;stroke-linecap:butt;" rx="5" height="60.13290333851688" id="33608074rect0007" ry="5"/>
+</g>
+<g style="opacity:1.0;" id="g0020" inkscape:componentalign="cr">
+<text x="92.18965115356445" y="248.18120609615147" transform="matrix(1.252387523651123 0 0 1.252387523651123 1042.8085557326044 -218.75210571289062)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;0&quot;}" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB4.INT2@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Scada_motor_int&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp33608074&quot;}" inkscape:textik="txt2" style="visibility:hidden;font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#ffffff;stroke:none;" id="33608074text0003">
+Right</text>
+</g>
+<g style="opacity:1.0;" id="g0021" inkscape:componentalign="cl">
+<text inkscape:textik="txt1" x="92.18965115356445" y="248.18120609615147" id="33608074text0004" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#000000;stroke:none;fill-opacity:0.32;" transform="matrix(1.252387523651123 0 0 1.252387523651123 897.2541734083858 -218.75213623046875)">
+Left</text>
+</g>
+<g id="g0022">
+<rect x="938.671880293253" y="55.19751096276694" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;max&quot;:&quot;1.0&quot;}" width="145.55421865550295" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB4.INT2@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Scada_motor_int&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1.0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp33608074&quot;}" inkscape:vypln="color0,100" style="stroke-opacity:0.17;stroke-dashoffset:0.0;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:2;fill:#0066ff;stroke:#000000;stroke-linecap:butt;" rx="5" id="33608074rect0006" height="60.13290333851687" ry="5"/>
+</g>
+<g style="opacity:1.0;" id="g0023" inkscape:componentalign="cl">
+<text x="92.18965115356445" y="248.18120609615147" transform="matrix(1.252387523651123 0 0 1.252387523651123 897.2541734083858 -218.75210571289062)" inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;max&quot;:&quot;1.0&quot;}" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB4.INT2@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Scada_motor_int&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1.0&quot;,&quot;aliasMax&quot;:&quot;&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp33608074&quot;}" inkscape:textik="txt1" style="font-weight:bold;text-anchor:middle;font-size:12pt;font-family:&apos;Ubuntu&apos;;font-style:normal;fill:#ffffff;stroke:none;" id="33608074text0001">
+Left</text>
+</g>
+<g id="g0024">
+<rect x="938.671880293253" y="55.19751096276694" inkscape:lblTemplate="{&quot;attr&quot;:&quot;setlist&quot;,&quot;listClick&quot;:[{&quot;attr&quot;:&quot;set&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;tag&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;toggle&quot;,&quot;type&quot;:&quot;&quot;,&quot;memory&quot;:&quot;NO&quot;,&quot;logging&quot;:&quot;NO&quot;,&quot;loggingText&quot;:&quot;&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;,&quot;lockEnable&quot;:&quot;NO&quot;}],&quot;listDown&quot;:[],&quot;listUp&quot;:[]}" width="291.10843731100556" style="visibility:visible;stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#ffffff;stroke:none;fill-opacity:0.01;stroke-linecap:butt;" inkscape:label="{&quot;attr&quot;:&quot;setlist&quot;,&quot;listClick&quot;:[{&quot;attr&quot;:&quot;set&quot;,&quot;tag&quot;:&quot;DB4.INT2@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;Scada_motor_int&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;toggle&quot;,&quot;type&quot;:&quot;&quot;,&quot;memory&quot;:&quot;NO&quot;,&quot;logging&quot;:&quot;NO&quot;,&quot;loggingText&quot;:&quot;&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;,&quot;lockEnable&quot;:&quot;NO&quot;,&quot;title&quot;:&quot;&quot;,&quot;batchID&quot;:1}],&quot;listDown&quot;:[],&quot;listUp&quot;:[]},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;Comp33608074&quot;}" rx="5" height="60.13290333851687" id="33608074rect0001" ry="5"/>
+</g>
+<g myscada:layerActiveArea="YES" id="g0025"/>
+<path d="M0 0L10 0L10 10L0 10L0 0Z" id="33608074positionCheckElementNoSeL" style="display:none" transform="matrix(1.252387523651123 0 0 1.252387523651123 937.4193955763545 53.94512939453125)"/>
+</g>
+<rect x="938.6718750000002" y="694.5208166517637" width="370.48429812977906" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#ffffff;stroke:#ff6600;fill-opacity:0.75;stroke-linecap:butt;" rx="33.27100997075854" height="119.2590295396426" id="rect0002" ry="33.27100997075854"/>
+<text x="1098.2781456953644" y="359.20529801324506" id="text0003" style="font-weight:normal;font-size:24pt;font-family:&apos;Segoe UI&apos;;font-style:normal;fill:#3333ff;stroke:none;" transform="matrix(1 0 0 1 -36.54386520385734 384.8251037597656)">
+BGL006F</text>
+<text x="1098.2781456953644" y="359.20529801324506" id="text0004" style="font-weight:normal;font-size:24pt;font-family:&apos;Segoe UI&apos;;font-style:normal;fill:#3333ff;stroke:none;" transform="matrix(1 0 0 1 -132.72215270996085 430.8180847167969)">
+On-edge detection:</text>
+<ellipse style="fill:#c0c0c0;stroke:#000000; stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;" inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;datamax&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;DB3.X4.3@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;BGL006F&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;0&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;datamax&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#00FF00&quot;,&quot;tag&quot;:&quot;DB3.X4.3@Automated_Assembly_PLC&quot;,&quot;alias&quot;:&quot;BGL006F&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;aliasMax&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;2&quot;}]}" rx="18.278145695364287" cx="1262.525106432438" id="ellipse0009" ry="18.27814569536426" cy="779.2764873779016"/>
+<path d="M1211.559814453125 586.1785278320312L1253.119489569413 358.74544940078465" id="line0001" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:2.0;fill:#ff9933;stroke:#ff9900;stroke-linecap:butt;" transform="matrix(1 0 0 1 -87.64580535888663 108.34226989746094)"/>
+<rect x="1321.2316793024136" y="46.66376476554454" width="370.48429812977906" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:1;fill:#ffffff;stroke:#ff6600;fill-opacity:0.75;stroke-linecap:butt;" rx="33.27100997075854" id="rect0003" height="136.02280444832263" ry="33.27100997075854"/>
+<path d="M1148.4404296875 456.88214111328125L1258.768798828125 360.88214111328125" id="path0001" style="stroke-linejoin:miter;stroke-dasharray:none;stroke-width:2.0;fill:#ff9933;stroke:#ff9900;stroke-linecap:butt;" transform="matrix(1 0 0 1 59.440185546875 -226.19556638527135)"/>
+<text x="1098.2781456953644" y="359.20529801324506" id="text0005" style="font-weight:normal;font-size:24pt;font-family:&apos;Segoe UI&apos;;font-style:normal;fill:#3333ff;stroke:none;" transform="matrix(1 0 0 1 346.0159426251156 -273.09028056130484)">
+BIS01E8</text>
+<text x="1098.2781456953644" y="359.20529801324506" id="text0006" style="font-weight:normal;font-size:24pt;font-family:&apos;Segoe UI&apos;;font-style:normal;fill:#3333ff;stroke:none;" transform="matrix(1 0 0 1 262.0495305430906 -236.19679651127072)">
+Spool Identification:</text>
+<text x="1098.2781456953644" y="359.20529801324506" id="text0007" style="font-weight:normal;font-size:24pt;font-family:&apos;Segoe UI&apos;;font-style:normal;fill:#3333ff;stroke:none;" transform="matrix(1 0 0 1 338.9378176251156 -200.8312225341797)" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB5.INT0@Traceability_RFID&quot;,&quot;alias&quot;:&quot;Traceability.Automated_Assembly_RFID&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;1.0&quot;,&quot;aliasMax&quot;:&quot;&quot;}">
+Material 1</text>
+<text x="1098.2781456953644" y="359.20529801324506" id="text0008" style="font-weight:normal;font-size:24pt;font-family:&apos;Segoe UI&apos;;font-style:normal;fill:#3333ff;stroke:none;" transform="matrix(1 0 0 1 338.93780517578125 -200.83122253417966)" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;DB5.INT0@Traceability_RFID&quot;,&quot;alias&quot;:&quot;Traceability.Automated_Assembly_RFID&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;2.0&quot;,&quot;aliasMin&quot;:&quot;&quot;,&quot;max&quot;:&quot;2.0&quot;,&quot;aliasMax&quot;:&quot;&quot;}">
+Material 2</text>
+</g>
+<g inkscape:groupmode="layer" myscada:layerActiveArea="YES" id="layer1" inkscape:layerlabel="ActiveArea"/>
+</svg>

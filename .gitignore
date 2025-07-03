@@ -1,0 +1,8 @@
+# Van 2 SCADA Project 
+# Ignore temporary files 
+*.tmp 
+*.temp 
+*.log 
+*~ 
+.DS_Store 
+Thumbs.db 
